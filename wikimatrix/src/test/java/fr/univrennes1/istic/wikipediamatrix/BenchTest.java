@@ -51,11 +51,9 @@ public class BenchTest {
 	       // "Comparison_of_operating_system_kernels-2.csv"
 
 	       
-	       // TODO: the HTML extractor should save CSV files into output/HTML
+	       // TODO: the HTML extractor should save CSV files into output/HTML -> fichier csv dans output/HTML -> que HTML 
 	       // see outputDirHtml 
-	       
-	       // TODO: the Wikitext extractor should save CSV files into output/wikitext
-	       // see outputDirWikitext      
+	            
 	       
 	       nurl++;	       
 	    }
@@ -69,7 +67,7 @@ public class BenchTest {
 	}
 
 	private String mkCSVFileName(String url, int n) {
-		return url.trim() + "-" + n + ".csv";
+		return url.trim() + "-" + n + ".csv"; //trim pour virer les espaces 
 	}
 
 }
