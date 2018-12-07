@@ -12,15 +12,30 @@ public class Lines {
 		
 		for (int i=1; i<=lignes.size()-1; i++) {
 			Element ligne = lignes.get(i);
-			Elements cases = ligne.select("td");
-			//System.out.print("le nom des cases de la ligne " + i +" : ");
-			for (Element element : cases) {
-					// System.out.print(element.text()+"	"); 
-					 pw.write(element.text()+"	");
+			
+			Elements enTeteDeLigne = null;
+			try {									//gérer les entête de lignes -> tableau à double entrée
+				enTeteDeLigne = ligne.select("th");
+				pw.write(enTeteDeLigne.get(0).text()+"	");
+				
+				//gérer les cases classiques 
+				Elements cases = ligne.select("td");
+				for (Element element : cases) {
+						 pw.write(element.text()+"	");
+				}
+				pw.write("\n");
 			}
-			//System.out.println("");
-			//System.out.println("");
-			pw.write("\n");
+			catch (Exception e) {
+				//gérer les cases classiques 
+				Elements cases = ligne.select("td");
+				for (Element element : cases) {						
+						 pw.write(element.text()+"	");
+				}
+				pw.write("\n");
+			}
+			
+			
+			
 		}
 	}
 }

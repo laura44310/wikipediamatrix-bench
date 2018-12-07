@@ -1,0 +1,34 @@
+Driver	802.11	Bus interface	Wireless Security	Monitor mode	Master (AP) mode	Ad-Hoc mode	
+a	
+acx1xx	No	Yes	Yes	No	No	PCI, Mini PCI, PC card, USB	Yes	No	No	Yes	Yes	?	
+adm8211	?	?	?	?	?	PCI	?	?	?	?	No	?	
+carl9170	Yes	Yes	Yes	Yes	No	USB	Yes	Yes	Yes	Yes	Yes	Yes	
+ath5k	Yes	Yes	Yes	No	No	PCI, Mini PCI, PC card, AHB	Yes	Yes	Yes	Yes	Yes (since 2.6.31)	Yes	
+ath9k	Yes	Yes	Yes	Yes	No	PCI, Mini PCI, AHB, PCI Express Mini Card	Yes	Yes	Yes	Yes	Yes	Yes	
+ath9k_htc	Yes	Yes	Yes	Yes	No	USB	Yes	Yes	Yes	Yes	Yes	Yes	
+ath10k	No	No	No	No	Yes	PCI, Mini PCI, AHB, PCI Express Mini Card	Yes	Yes	Yes	Yes	Yes	Yes	
+b43	No	Yes	Yes	No	No	PCI, Mini PCI, SDIO ?	Yes	Yes	Yes	Yes	Yes	Yes	
+bcm43xx	No	Yes	Yes	No	No	PCI, Mini PCI, PC card, Cardbus	Yes	Yes	Yes	Yes	No	?	
+Broadcom brcmfmac	Yes	Yes	Yes	Yes	No	USB, SDIO, PCI Express	Yes	Yes	Yes	Experimental (unofficial firmware patching) [27]	Yes[28]	No	
+Broadcom brcmsmac	Yes	Yes	Yes	Yes	No	PCI, Mini PCI, PCI Express Mini Card	Yes	Yes	Yes	Yes	Yes[29]	Yes[30]	
+hostap	No	Yes	No	No	No	PCI, Mini PCI, PC card	Yes	Yes[31]	Yes[31]	Yes	Yes	Yes	
+ipw2100	No	Yes	No	No	No	Mini PCI	Yes	Yes	Yes	Yes	?	?	
+ipw2200	Yes	Yes	Yes	No	No	Mini PCI	Yes	Yes	Yes	Yes	No	Yes	
+ipw2200-ap	No	Yes	Yes	No	No	Mini PCI	?	?	?	Yes	Yes	?	
+ipw3945	Yes	Yes	Yes	No	No	Mini PCI, PCI Express Mini Card	Yes	Yes	Yes	Yes	No	Yes	
+islsm	?	?	?	?	?	PCI, USB	No	No	No	?	No	?	
+iwlwifi	Yes	Yes	Yes	Yes	Yes	Mini PCI, PCI Express Mini Card	Yes	Yes	Yes	Yes	Experimental[32][33]	Yes	
+libertas	No	Yes	Yes	No	No	USB, CF, SDIO	?	?	?	?	No	?	
+MadWifi	Yes	Yes	Yes	No	No	PCI, Mini PCI, PC card	Yes	Yes	Yes	Yes	Yes	Yes some issues in HAL, outdoor sensitivity?[citation needed]	
+mt76	Yes	Yes	Yes	Yes	Yes	PCIe, USB	Yes	Yes	Yes	Yes	Yes	?	
+mt7601u	No	Yes	Yes	Yes	No	USB	Yes	Yes	Yes	Yes	?	?	
+orinoco	No	Yes	No	No	No	Mini PCI, PC card	Yes	Yes[34]	No	Yes	No	Yes	
+p54	No	Yes	Yes	No	No	Mini PCI, Cardbus, USB	Yes	Yes	Yes	Yes	Yes	Yes	
+prism54	No	Yes	Yes	No	No	PCI	Yes	No	?	Yes	Yes	?	
+rndis_wlan	No	Yes	Yes	No	No	USB	Yes	Yes	Yes	No	No	Yes	
+rt2x00	No	Yes	Yes	No	No	PCI, Mini PCI, USB	Yes	Yes[35]	Yes[36]	Yes	Yes[37]	Yes	
+rtl8180	Yes	Yes	Yes	No	No	PCI, Mini PCI, PC card	?	?	?	?	Yes	?	
+rtl8187	Yes	Yes	Yes	No	No	USB	Yes	Yes	Yes	Yes	?	?	
+zd1201	No	Yes	No	No	No	USB	Yes	No[38]	No[38]	Yes	Yes	?	
+zd1211	Yes	Yes	Yes	No	No	USB	Yes	Yes	Yes	Yes	Yes	?	
+zd1211rw	No	Yes	Yes	No	No	USB	Yes	Yes	Yes	Yes	Yes[39]	Yes	

@@ -7,19 +7,15 @@ import org.jsoup.select.Elements;
 
 public class Headlines {
 
-	public void afficheTitreColonnes(Element tableau1, PrintWriter pw) {
+	public void afficheTitreColonnes(Element tableau1, PrintWriter pw,int i) {
 		Elements colonnes = tableau1.select("tbody tr");
 		Element entete = colonnes.get(0);
 		Elements titre = entete.select("th");
-		//System.out.print("le nom des colonnes : ");
 		for(Element headline : titre)
-		{
-			//System.out.print(headline.text()+"	");//permet d'afficher les noms des 18 colonnes 
-			pw.write(headline.text()+"	"); //l'espace est une tabulation 
+		{ 
+			pw.write(headline.text()+"	"); 				//le séparateur est une tabulation 
 		   
 		}
-		//System.out.println("");
-		//System.out.println("");
 		pw.write("\n");
 	}
 }
