@@ -24,4 +24,3 @@ vimdiff	Yes	Yes (via DirDiff plugin)			Yes	Yes
 WinDiff	Yes	Yes	Yes	Yes	No	No				
 WinMerge	Yes	Yes	No	Yes	Yes (Via a fork) [30]	Yes		No	Yes (Via a fork) [30]	
 UCC	Yes	Yes	Yes	Yes	No	Yes				
-Name	

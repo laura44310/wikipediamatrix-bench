@@ -28,4 +28,3 @@ solidDB	No	No	Yes	No	No	Yes	Yes	No	No	No	No
 SQL Anywhere	Yes	?	Yes (Kerberos)	Yes	?	Yes	Yes	No	Yes	Yes (EAL3+1 as Adaptive Server Anywhere)	?	
 SQLite	No (not relevant, only file permissions)	No (not relevant)	No (not relevant)	No (not relevant)	Partial (no security page)[159]	Yes (file access)	Yes	Yes	No	No	?	
 Teradata	Yes	No	Yes (LDAP, Kerberos…)	Yes	?	Yes	Yes	Yes	Yes	Yes	Yes	
-	

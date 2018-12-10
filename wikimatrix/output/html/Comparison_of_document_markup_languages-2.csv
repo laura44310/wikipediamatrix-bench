@@ -26,4 +26,3 @@ Textile	Hypertext documents	AsciiDoc (based on some similarities and dates of re
 Text Encoding Initiative (TEI)	Academic, linguistic, literary and technical documents	SGML / XML	Tag	Yes	No	
 troff (typesetter runoff), groff (GNU runoff)	Technical documents	RUNOFF	Control code	Yes	Yes	
 Wireless Markup Language (WML)	Hypertext documents	XML	Tag	Yes	Yes	
-Language	

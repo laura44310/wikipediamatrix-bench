@@ -10,7 +10,7 @@ public class Lines {
 	public void affichesLignes(Element tableau1, PrintWriter pw) {
 		Elements lignes = tableau1.select("tbody tr");
 		
-		for (int i=1; i<=lignes.size()-1; i++) {
+		for (int i=1; i<=lignes.size()-2; i++) {
 			Element ligne = lignes.get(i);
 			
 			Elements enTeteDeLigne = null;
@@ -32,10 +32,13 @@ public class Lines {
 						 pw.write(element.text()+"	");
 				}
 				pw.write("\n");
-			}
-			
-			
-			
+			}	
+		}
+		//gérer les cases classiques 
+		Element ligne = lignes.get(lignes.size()-1);
+		Elements cases = ligne.select("td");
+		for (Element element : cases) {						
+				 pw.write(element.text()+"	");
 		}
 	}
 }

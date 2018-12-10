@@ -46,4 +46,3 @@ Vorbis (Ogg)	Xiph.Org Foundation	2000-05-11	1.3.6	Free	Free		libvorbis,[37] aoTu
 WavPack	Conifer Software	1998	5.1.0	Free	Free		WavPack,[39] FFmpeg	-	-	Yes	Yes	No	No	
 Windows Media Audio	Microsoft	1999	11.0	Free Windows Media Encoder[40]	Free for licensees of the Windows operating system[41]	Windows Media Player, Windows Media Encoder	FFmpeg (decoding only for Pro, Lossless and Voice)	internet streaming	Yes	No	Yes	Yes	Optional[42]	
 Audio compression format	
-cost	

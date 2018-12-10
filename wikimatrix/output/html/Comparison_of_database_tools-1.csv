@@ -27,4 +27,4 @@ SQLyog	Webyog Softworks Pvt. Ltd.	2017-06-14	12.4.3[5]	?	GPLv2	Yes	requires Wine
 SQuirreL SQL	Colin Bell, Gerd Wagner, Rob Manning and others	2017-12-29	3.8.1		GPLv2 & LGPLv2	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Access,Axion Java RDBMS, Apache Derby, Daffodil DB, FileMaker (JDBC), Fujitsu Siemens SESAM/SQL, Firebird, FrontBase, HSQLDB, Hypersonic SQL, H2 (DBMS), IBM DB2, Informix, Ingres, OpenIngres, InstantDB, InterBase, Mckoi SQL Database, Microsoft SQL Server, Mimer SQL, Netezza, Pointbase, SAPDB, Sybase, Sunopsis XML Driver, Teradata Warehouse, ThinkSQL RDBMS, Vertica Analytic Database, and others with JDBC drivers.	Java	
 Toad	Quest Software	Various	Various	Betas	Proprietary	Yes	No	No	Yes	Yes		Yes	Yes			DB2, Sybase	Embarcadero Delphi, C#.NET	
 Toad Data Modeler	Quest Software	2009-03-05	3.3.8	Betas[6]	Proprietary	Yes	No	No	Yes	Yes	Yes	Yes				DB2, MS Access, Sybase	Embarcadero Delphi	
-TOra	Community	2017-07-04	3.2	?	GPL	Yes	Yes	Yes	Yes	Yes	Yes					Teradata	C++/Qt	
+Community	2017-07-04	3.2	?	GPL	Yes	Yes	Yes	Yes	Yes	Yes					Teradata	C++/Qt	

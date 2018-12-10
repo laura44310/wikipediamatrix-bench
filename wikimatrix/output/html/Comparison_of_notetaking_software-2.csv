@@ -29,4 +29,3 @@ Ulysses	Notebooks, sections, tags	Yes	Yes	Yes	Yes	Yes	Yes	?	Yes	Yes	Yes	Yes	Rich
 WikidPad	tags (wikiwords)	?	No	No	No	No	No	No	?	?	?	Yes	HTML	
 Microsoft Windows Journal	?	?	No	?	No	?	Yes	Yes[Notes 11]	?	?	?	Yes	Proprietary	
 Zim	tags (wikiwords)	Yes	No	No	No	No	No	No	Yes	Yes	Yes	Yes, using installed web browser	Stored in modified DokuWiki Markdown; export: HTML, LaTeX, Pandoc Markdown, Sphinx RST (reStructuredText)	
-Name	

@@ -22,4 +22,3 @@ Windows Photo Viewer	Yes	Yes	Yes 1:1, fit, in/out	Yes	No	No	No	Yes	No
 XnView and XnViewMP	Yes	Yes	Yes 1:1, fit width and/or height, lock	Yes previous, next	Yes user-defined	Yes database	dir-tree, favourites, categories	Yes	Partial name, date, size, type, etc.; no user-defined order	
 xv	No	Yes		No	Yes fixed size	Yes in subdirectory (.xvpics)		Yes	Partial name	
 Zoner Photo Studio	Yes	Yes	Yes 1:1, fit width and/or height, lock	Yes in Viewer, previous and next	Yes user-defined	Yes database	dir-tree, albums, CD compilations, media archive, search results, web albums	Yes contact sheet, templates, calendars, paper saver	Yes name, date, size, type, etc.; user-defined order	
-Program	

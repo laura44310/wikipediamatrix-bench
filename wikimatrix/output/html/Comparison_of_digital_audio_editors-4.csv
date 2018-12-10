@@ -6,7 +6,7 @@ AudioDesk	Yes	Yes	Yes	Yes	Yes	No	No	Yes	Yes	No	SDII (native)
 Audiotool	No	No	No	Import	Export	No	Export	No	No	No	No	
 Audition	Yes	Unknown	No (unsupported since CS5)	Yes	Yes	Yes	Yes	No	Yes	Yes	AU, IFF, RAW/PCM, SMP, VOC, VOX, WMA	
 BIAS Peak	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
-Cubase	Yes	No	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	WMA, W64	
+Cubase	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	WMA, W64	
 Diamond Cut ART	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
 Digital Performer	Yes	Yes	Yes	Yes	Yes	No	No	Yes	Yes	No	SDII (native)	
 Ecasound	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
@@ -52,4 +52,3 @@ Traverso	No	No	Unknown	Yes	Yes	Unknown	Yes	Unknown	No	Yes	WavPack
 WaveLab	No	No	Controllers	Yes	Yes	Yes	Yes	No	Yes	Yes	AU, MP2, RAW	
 WavePad	No	No	Import	Yes	Yes	Yes	Yes	No	Yes	Yes	import midi, Sun AU, MPEG4 audio, GSM, RAW, Dialogic VOX, AMR Narrowband, Musepack, Monkey's Audio Codec, others	
 WaveSurfer	No	No	No	Yes	Import	No	With plugin	No	Yes	No	Import: AU, CSL, SD Export: AU	
-	

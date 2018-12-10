@@ -24,4 +24,3 @@ vimdiff	Yes	Yes	vim script	Both	Yes	HTML
 WinDiff	Yes	Yes		Horizontal	No	Text	
 WinMerge	Yes	Yes		Vertical	Yes	CSV, Tab-delimited, HTML, XML	
 UCC	Yes	Yes		Vertical	Yes	Text, CSV	
-Name	

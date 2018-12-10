@@ -4,4 +4,4 @@ Dogear	IBM Corporation	2.0.1 (2009-3)	per instance	Yes	Yes	No	Yes	binary only	br
 Jumper 2.0	Jumper Networks	2.0.1.7 (2010-7)	Free	Yes	Yes	Yes - GPL	Yes	JavaScript & PHP	browser	runs on mySQL database for storing tag profiles. Can also be configured to run on Oracle Database 10g or Microsoft SQL Server 2005 Enterprise Edition	
 Knowledge Plaza	Knowledge Plaza	2.3.18	free trial, starts at €35/month/instance	Yes	Yes	No	Yes	JavaScript and Python (programming language)	browser	Software-as-a-Service	
 Licorize	Licorize	2.0	$5 month/user if used as Software-as-a-Service, $4000 per server if installed (non expiring license)	Yes	Yes	No	Yes	Java	browser	Software-as-a-Service and installed option, full Java sources are provided in the installed version	
-Scuttle	Scuttle	0.9.0 (2013-04)	Free	No	No	Yes - GPL	No	JavaScript & PHP	browser	still in alpha stage	
+Scuttle	0.9.0 (2013-04)	Free	No	No	Yes - GPL	No	JavaScript & PHP	browser	still in alpha stage	

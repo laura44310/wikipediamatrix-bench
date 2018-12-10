@@ -28,4 +28,4 @@ thttpd	Yes (Cygwin)	Yes	Yes	Yes	Yes	No	No	Unknown	No	Unknown	Unknown
 TUX web server	No	Yes	No	No	No	No	No	No	No	No	No	
 Wakanda Server	Yes	Yes (via libbsd)	Yes	Yes	Unknown	No	No	No	No	No	No	
 Xitami	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	Unknown	Yes	
-Yaws	Yes	Yes	Yes	Yes	Yes	No	No	Yes	No	Unknown	Unknown	
+Yes	Yes	Yes	Yes	Yes	No	No	Yes	No	Unknown	Unknown	

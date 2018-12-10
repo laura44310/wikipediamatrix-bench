@@ -15,4 +15,4 @@ TASM	Windows, DOS	No	Proprietary	?[4][5]
 TCCASM	Unix-like, Windows	Yes	LGPL	Yes	
 vasm	various	Yes	Free	Yes	
 Xenix	Xenix 2.3 and 3.0 (before 1985)	No	Proprietary	1982-1984	
-Yasm	Windows, DOS, Linux, Unix-like	Yes	BSD	Yes	
+Windows, DOS, Linux, Unix-like	Yes	BSD	Yes	

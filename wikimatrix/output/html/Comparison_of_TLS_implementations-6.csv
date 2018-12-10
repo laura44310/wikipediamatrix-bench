@@ -18,4 +18,3 @@ SChannel	No	No	No	No	No	No	No	Yes	No	No
 Secure Transport	No	No	No	No	No	No	No	Unknown	Yes	Yes	
 wolfSSL	No	No	No	No	Yes	No	Yes[109]	No	No	No	
 Erlang/OTP SSL application	Disabled by default	Disabled by default	Disabled by default	Disabled by default	Disabled by default	Disabled by default	No	No	Disabled by default	Disabled by default	
-Implementation	

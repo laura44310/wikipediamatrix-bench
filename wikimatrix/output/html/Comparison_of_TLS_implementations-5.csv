@@ -23,4 +23,3 @@ Secure Transport OS X 10.8-10.10	Yes	No	except AES_GCM	No	Yes	except AES_GCM	Yes
 Secure Transport OS X 10.11	Yes	No	Yes	No	No	Yes	No	Yes	No	
 wolfSSL	Yes	No	Yes	No	Yes	Yes	Yes	Yes	No	
 Erlang/OTP SSL application	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes	No	
-Implementation	

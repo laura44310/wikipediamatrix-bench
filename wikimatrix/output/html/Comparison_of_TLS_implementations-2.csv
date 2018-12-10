@@ -29,4 +29,3 @@ Secure Transport OS X 10.11, iOS 9	No	No[c]	Yes	Yes	Yes		Yes	Unknown
 Secure Transport OS X 10.13, iOS 11	No	No[c]	Yes	Yes	Yes	Yes (draft version)[62]	Yes	Unknown	
 wolfSSL	No	Disabled by default[63]	Yes	Yes	Yes	Yes	Yes	Yes	
 Erlang/OTP SSL application	No	Disabled by default	Yes	Yes	Yes	Not yet	Yes	Yes	
-Implementation	

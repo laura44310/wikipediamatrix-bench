@@ -15,4 +15,4 @@ Scheduled Sleep/Hibernate	Yes	Yes	No	Yes	Yes
 Scheduled power-off	Yes	Yes	No	Yes	Yes	
 Scheduled Reboot	Yes	No	No	Yes	Yes	
 Scheduled wake-up (without WoL)	Yes	No	No	Yes	Yes	
-Remote wake-up (with WoL)	Yes	No	No	Yes	Yes	
+Yes	No	No	Yes	Yes	

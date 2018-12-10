@@ -23,4 +23,4 @@ XFS[56]	Linux	Yes	No	No	No
 ReFS	Windows	Yes	?	No	?	
 UFS2[57]	FreeBSD	Yes (FreeBSD 10.0-RELEASE or later)	Yes	No	No	
 HAMMER	DragonflyBSD	?	?	?	?	
-SquashFS	Linux	No	No	No	No	
+Linux	No	No	No	No	

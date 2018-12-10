@@ -10,4 +10,4 @@ Kyligence	Unrestricted	Unrestricted	Unrestricted	Unrestricted	Unrestricted	Unres
 Kyvos BI on Big Data	Unrestricted	Unrestricted	Unrestricted	Unrestricted	Unrestricted	Unrestricted	
 Microsoft Analysis Services[35]	2,147,483,647	2,147,483,647	2,147,483,647	2,147,483,647 (max. number of dimensions in a database)	2,147,483,647	2,147,483,647	2,147,483,647 (xOLAP) Unrestricted (In-memory)	
 MicroStrategy Intelligence Server	Unrestricted[a]	Unrestricted[a]	Unrestricted[a]	?	Unrestricted[a]	Unrestricted[a]	Unrestricted[a]	
-SAS OLAP Server[36]	Unrestricted[a]	1024	128	?	128	19	4,294,967,296	
+Unrestricted[a]	1024	128	?	128	19	4,294,967,296	

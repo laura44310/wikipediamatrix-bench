@@ -21,20 +21,20 @@ Gentoo	Binary blobs	none	openrc	Awesome, Enlightenment, Fluxbox, GNOME, KDE, LXD
 gNewSense	Debian Linux kernel, and (unlike Debian) blobs cannot be installed[47]	ext3	sysvinit	GNOME	
 gnuLinEx	Binary blobs	ext2	?	GNOME	
 GuixSD	Linux-libre	btrfs, ext4	GNU Shepherd	GNOME, Xfce, Mate, Enlightenment, i3, ratpoison, xmonad	
-Hyperbola GNU/Linux-libre	Linux-libre	none	openrc	none	
+Hyperbola GNU/Linux-libre	Linux-libre	none	openrc[50]	none	
 Instant WebKiosk	Binary blobs	SquashFS	?	Has no DE. It's a browser-only interface	
 Kali Linux	Binary blobs	ext3	systemd	GNOME	
 Knoppix	Binary blobs	xfs	microknoppix	LXDE	
-LibreCMC[50]	Binary blobs	ext4	busybox-init	none	
-Linux Mint[51]	Binary blobs[45]	ext4	systemd	MATE, Cinnamon, KDE 4, XFCE	
+LibreCMC[51]	Binary blobs	ext4	busybox-init	none	
+Linux Mint[52]	Binary blobs[45]	ext4	systemd	MATE, Cinnamon, KDE 4, XFCE	
 Mageia	Binary blobs	ext4	systemd	KDE Plasma Workspaces, GNOME	
 Mandriva Linux	Binary blobs	ext4	systemd	KDE Plasma Workspaces	
-Manjaro Linux	Binary blobs	none[52]	systemd	Xfce, KDE, GNOME [53]	
+Manjaro Linux	Binary blobs	none[53]	systemd	Xfce, KDE, GNOME [54]	
 MEPIS	Binary blobs	ext3, ext4	sysvinit	KDE Plasma Workspaces	
-Musix GNU+Linux[54]	Linux-libre	ext4	initscripts	LXDE	
+Musix GNU+Linux[55]	Linux-libre	ext4	initscripts	LXDE	
 OpenELEC	Binary blobs	SquashFS	shell script	XBMC Media Center	
 openSUSE	Binary blobs	btrfs	systemd	KDE Plasma Workspaces, GNOME, Xfce	
-OpenWrt	Binary blobs	overlayfs+SquashFS/JFFS2[55]	procd[56]	none	
+OpenWrt	Binary blobs	overlayfs+SquashFS/JFFS2[56]	procd[57]	none	
 Parabola GNU/Linux-libre	Linux-libre	none	openrc or systemd	none	
 Pardus	Binary blobs	ext4	?	KDE Plasma Workspaces	
 Parsix	Binary blobs	ext4	systemd	GNOME	
@@ -44,8 +44,8 @@ Porteus	Binary blobs	Squashfs, ext2, ext3, ext4, FAT32, reiser, xfs	sysvinit	KDE
 Puppy Linux	Binary blobs	SquashFS containing ext2	busybox-init	JWM	
 Red Hat Enterprise Linux	Binary blobs	xfs	systemd	GNOME	
 Rxart Desktop	Binary blobs	ext3	?	KDE Plasma Workspaces	
-Sabayon Linux	Binary blobs	ext4[57]	systemd	KDE Plasma Workspaces, GNOME	
-Scientific Linux	Binary blobs	ext4	sysvinit, systemd[58]	GNOME	
+Sabayon Linux	Binary blobs	ext4[58]	systemd	KDE Plasma Workspaces, GNOME	
+Scientific Linux	Binary blobs	ext4	sysvinit, systemd[59]	GNOME	
 Slackware	Binary blobs[45]	ext4	BSD init scripts	KDE Plasma Workspaces, Xfce, Fluxbox, Blackbox, twm	
 Slax	Binary blobs	SquashFS	sysvinit	KDE Plasma Workspaces	
 SliTaz GNU/Linux	Binary blobs	ext3	busybox-init	Openbox	
@@ -57,17 +57,16 @@ Tails	Vanilla Linux[45]	?	systemd	GNOME
 Tor-ramdisk	Binary blobs	ext2	?	none	
 Trisquel	Linux-libre	ext4, xfs	systemd	GNOME, LXDE	
 TurnKey GNU/Linux	Binary blobs	ext4	systemd	none - headless server by design; provides Webmin for administration	
-Ubuntu/Edubuntu	Binary blobs[45]	ext4[59]	systemd	Unity	
+Ubuntu/Edubuntu	Binary blobs[45]	ext4[60]	systemd	Unity	
 Ubuntu GNOME	Binary blobs	ext4	systemd	GNOME 3	
 Ubuntu MATE	Binary blobs	ext4	systemd	MATE	
-Kubuntu	Binary blobs	ext4[59]	systemd	KDE Plasma Workspaces	
-Xubuntu	Binary blobs	ext4[59]	systemd	Xfce	
+Kubuntu	Binary blobs	ext4[60]	systemd	KDE Plasma Workspaces	
+Xubuntu	Binary blobs	ext4[60]	systemd	Xfce	
 Lubuntu	Binary blobs	ext4	systemd	LXDE	
-Ututo	Ututo XS (stable) is de-blobed with Linux-libre tools.[60] Ututo UL (development) uses Linux-libre. Ututo UL means "Ubuntu-Libre"	ext3	?	GNOME	
+Ututo	Ututo XS (stable) is de-blobed with Linux-libre tools.[61] Ututo UL (development) uses Linux-libre. Ututo UL means "Ubuntu-Libre"	ext3	?	GNOME	
 VectorLinux	Binary blobs	ReiserFS	sysvinit	KDE, Openbox, Fluxbox, IceWM, Xfce	
 Void Linux	Binary blobs	none	runit	none	
 Webconverger	Binary blobs	gitfs	sysvinit	dwm enforcing a Browser-only interface	
 XBMC Live	Binary blobs	ext3	systemd	XBMC Media Center	
 Zentyal	Binary blobs	ext4	?	LXDE	
 Zenwalk	Binary blobs	ext4	sysvinit	Xfce	
-Distribution	

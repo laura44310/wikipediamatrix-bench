@@ -11,4 +11,4 @@ LedgerSMB	Perl	2006-09-06	1.5.20	2018-04-14	5 - Production / Stable	PostgreSQL 9
 NewViews	C++, Tcl/Tk	1985	2.32.4	2018-06-22	5 - Production / Stable	Proprietary, Object Oriented	English	
 Openbravo	J2EE, JBoss	2006	3.0.30460	2017-03-09	5 - Production / Stable	Oracle, PostgreSQL	English, German, Spanish (Spain), Spanish (Mexico), French, Italian, Dutch, Polish, Portuguese, Romanian, Russian, Chinese, Hebrew, Bulgarian, etc.	
 SQL-Ledger	Perl	1999-01-29	3.2.4	2017-03-21	5 - Production / Stable	PostgreSQL	30: English, ...	
-Tryton	Python	2008-11-17	4.2	2016-11-28	5 - Production / Stable	PostgreSQL, MySQL, SQLite	English, Bulgarian, Catalan, Czech, Dutch, French, German, Italian, Russian, Slovene, Spanish	
+Python	2008-11-17	4.2	2016-11-28	5 - Production / Stable	PostgreSQL, MySQL, SQLite	English, Bulgarian, Catalan, Czech, Dutch, French, German, Italian, Russian, Slovene, Spanish	

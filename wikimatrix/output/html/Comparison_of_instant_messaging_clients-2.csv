@@ -18,7 +18,7 @@ Empathy	No	No	Yes	No	No	No	No	No	No	No	No	No	No	No	No
 Facebook Messenger	Yes	No	No	No	No	Yes	Yes	No	Yes	No	No	No	No	Yes	No	
 FaceTime	No	Included	No	No	No	No	No	No	Included	No	No	No	No	No	No	
 Flock	Yes	Yes	No	No	No	No	Yes	No	Yes	No	No	No	No	Yes	No	
-Fire	Yes	No	No	No	No	No	No	No	No	No	No	No	No	No	No	
+Fire	No	Yes	No	No	No	No	No	No	No	No	No	No	No	No	No	
 Gadu-Gadu	Yes	No	No	No	No	No	Yes	No	Yes	Yes	No	Yes	No	Yes	No	
 Gajim	Yes	Yes	Yes	No	No	No	No	No	No	No	No	No	No	No	No	
 Google Hangouts	Partial[b]	Partial[b]	Partial[b][a]	No	No	No	Yes	No	Yes	No	No	No	No	Yes	No	
@@ -76,4 +76,3 @@ Yahoo! Messenger	Yes	Yes	No	No	No	No	Yes	Yes	Yes	Yes	No	No	No	Yes	No
 Yuilop	No	No	No	No	No	Yes	Yes	Yes	Yes	No	No	No	No	No	No	
 Zephyr	Yes	Yes	Yes	No	No	No	No	No	No	No	No	No	No	No	No	
 Client	
-Desktop	

@@ -30,4 +30,3 @@ Secure Transport macOS 10.12	Yes	Disabled by default	Disabled by default	Disable
 wolfSSL	Disabled by default[149]	No	No	No	Disabled by default	No	
 Erlang/OTP SSL application	no	Disabled by default	no	no	Disabled by default	no	
 Implementation	
-IDEA CBC [n 1](insecure)[143]	

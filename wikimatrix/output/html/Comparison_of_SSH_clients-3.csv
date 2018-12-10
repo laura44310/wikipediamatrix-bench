@@ -16,4 +16,3 @@ WinSCP	GUI or command line	Yes	Yes	No	No	limited[Note 7]	No	No	No	Yes	Yes	simple
 Xshell	TDI or command line	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	SFTP	SOCKS 4, 5	
 ZOC	TDI or command line	Yes	Yes	Yes	Yes	Yes	Yes	No	No	No	Yes	Yes	SCP through terminal[Note 8]	SOCKS 4; 5; HTTP; Jumpserver	
 Name	
-TELNET	

@@ -25,4 +25,3 @@ Secure Transport OS X 10.11	Yes	No	Yes	No	No	No	No	No	Yes	No	No	Disabled by defa
 wolfSSL	Yes	Yes	Yes	No	Yes	No	No	No	Yes	No	Yes	Disabled by default	
 Erlang/OTP SSL application	Yes	No	Yes	No	No	No	No	No	Disabled by default	No	Experimental	Disable by defaultl	
 Implementation	
-AES GCM [118]	

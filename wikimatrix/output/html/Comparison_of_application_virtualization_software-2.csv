@@ -36,4 +36,4 @@ Vx32 virtual machine	x86 binaries	Application-level virtualization for native co
 Waba		Virtual machine for small devices, similar to Java					
 Yet Another Ruby VM (YARV)	Ruby	Virtual machine of the reference implementation for Ruby 1.9 and newer versions	Yes	Yes	C		
 Z-machine	Z-Code						
-Zend Engine	PHP		Yes	No	C	75k	
+PHP		Yes	No	C	75k	

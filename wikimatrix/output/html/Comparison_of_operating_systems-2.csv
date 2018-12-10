@@ -34,4 +34,3 @@ Windows Server (NT family)	x86, x86-64, IA-64	NTFS, FAT, ISO 9660, UDF; 3rd-part
 Windows (NT family)	x86, x86-64, ARM	NTFS, FAT exFAT ISO 9660, UDF; 3rd-party drivers support ext2, ext3, ReiserFS,[t 10] HFS+, FATX, and HFS (with third party driver)	Hybrid with modules	~40 (XP)/64 (Vista and later) million[citation needed]	Yes	MSI, custom installers	Windows Update	Win32, NT API	DOS API, Win16 (only in 32-bit versions), POSIX, .NET	
 ZETA	x86	BFS (default), FAT, ISO 9660, UDF, HFS, AFP, ext2, CIFS, NTFS (read only), ReiserFS (read only, up to v3.6)	Hybrid		Yes	SoftwareValet, script-based installers	None	POSIX, BeOS API		
 z/OS	z/Architecture	VSAM, BDAM, QSAM, BPAM, HFS, zFS, etc.	Protected, multithreading, multitasking nucleus with programmable/user replaceable extensions. Not kernel-based.[clarification needed]		No	None, SMP/E	SMP/E	Filesystem access methods, Systems Services, etc.	POSIX, many others.	
-Name	

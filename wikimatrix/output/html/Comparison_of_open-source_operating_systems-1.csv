@@ -6,4 +6,4 @@ OpenBSD		W^X, ProPolice/SSP[Note 6]		vmm[47]	PF
 OpenSolaris, illumos	TrustedBSD		Solaris Containers	KVM[48]	IPFilter	RBAC[49]	
 AuroraUX	TrustedBSD		Solaris Containers		IPFilter		
 Plan 9	No	No	per-process namespaces				
-Inferno	No	No	per-process namespaces				
+No	No	per-process namespaces				

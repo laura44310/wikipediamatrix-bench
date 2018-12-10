@@ -15,4 +15,3 @@ RSA BSAFE Micro-Edition Suite	R_*	Makefile	Developer's guide	Included	No
 RSA BSAFE SSL-J	com.rsa.*	Java classloader	Javadoc, Developer's guide (HTML)	Included	No	
 rustls	rustls	cargo	API Reference	External, ring[226]	No	
 wolfSSL	CyaSSL_* SSL_*	Autoconf, automake, libtool, MSVC project workspaces, XCode projects, CodeWarrior projects, MPLAB X projects, Keil, IAR, Clang, GCC	Manual and API Reference (HTML, PDF)	Included (monolithic)	Yes (about 10% of API)	
-Implementation	

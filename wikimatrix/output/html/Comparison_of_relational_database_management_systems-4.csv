@@ -38,4 +38,3 @@ SQL Anywhere	104 TB (13 files, each file up to 8 TB (32 KB pages))	Limited by fi
 SQLite	128 TB (231 pages * 64 KB max page size)	Limited by file size	Limited by file size	32,767	2 GB	2 GB	64 bits	No DATE type9	No DATE type9	Unlimited	
 Teradata	Unlimited	Unlimited	64000 wo/lobs (64 GB w/lobs)	2,048	2 GB	64,000	38 digits	0001-01-01	9999-12-31	128	
 UniVerse	Unlimited	Unlimited	Unlimited	Unlimited	Unlimited	Unlimited	Unlimited	Unlimited	Unlimited	Unlimited	
-	

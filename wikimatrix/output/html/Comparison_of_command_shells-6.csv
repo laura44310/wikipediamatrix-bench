@@ -21,4 +21,4 @@ PowerShell	Yes[74]	Yes	No	No[75]	Yes[76]	Yes[77]	Yes[78]
 rc	via stty[69]	No	?	N/A[70]	No	Yes[79]	No	
 BeanShell	?	?	?	?	?	?	?	
 VMS DCL	Yes	No	No	Yes	No	Yes	No	
-fish	read -s	No	?	N/A[70]	No	Yes (via fish -l)	?	
+read -s	No	?	N/A[70]	No	Yes (via fish -l)	?	

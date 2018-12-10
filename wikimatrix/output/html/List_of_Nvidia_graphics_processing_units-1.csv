@@ -37,4 +37,3 @@ V100 GPU Accelerator (Mezzanine )[189][190][191]	Volta		1× GV100	N/A	5120	Unknow
 V100 GPU Accelerator (PCIe card)[189][190][191]	June 21, 2017	N/A	Unknown	1370	No	14028	7014	250	PCIe card	
 T4 GPU Accelerator (PCIe card)[192]	Turing	September 12, 2018	Unknown	Unknown	2560	Unknown	Unknown	GDDR6	Unknown	16	Unknown	320	Unknown	8100	Unknown	7.5	70	PCIe card	
 Model	
-Cuda cores (total)	

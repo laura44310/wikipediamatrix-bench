@@ -4,4 +4,4 @@ WinGate	GUI	Proprietary user interface	Yes	N/A
 ClearOS	both	RS232, SSH, WebConfig,	Yes	Yes with ClearDNS	
 Zeroshell	GUI	SSH, Web (HTTPS), RS232	Yes	No	
 pfSense	both	SSH, Web (HTTP/HTTPS), RS232	Yes	No	
-IPFire	both	SSH, Web (HTTPS), RS232	Yes	No	
+both	SSH, Web (HTTPS), RS232	Yes	No	

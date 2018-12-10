@@ -65,4 +65,3 @@ XenServer	By Citrix Systems	x86, x86-64, ARM, IA-64 (inactive), PowerPC (inactiv
 XtratuM	Universidad Politecnica de Valencia	x86, x86; SPARC v8 LEON2/3	Same as host	No host OS	GPOS: Linux, RTOS: PartiKle, RTEMS	GPL	
 z/VM	IBM	z/Architecture	z/Architecture, z/VM does not run on predecessor mainframes	No host OS, itself (single or multiple levels/versions deep; e.g., VM/ESA running in z/VM 4.4 in z/VM 5.2 in z/VM 5.1.)	Linux on zSeries, z/OS, z/VSE, z/TPF, z/VM, VM/CMS, MUSIC/SP, OpenSolaris for System z, predecessors	Proprietary	
 z LPARs	IBM	z/Architecture	z/Architecture	Integrated in firmware of System z mainframes	Linux on zSeries, z/OS, z/VSE, z/TPF, z/VM, MUSIC/SP, and predecessors	Proprietary	
-Name	

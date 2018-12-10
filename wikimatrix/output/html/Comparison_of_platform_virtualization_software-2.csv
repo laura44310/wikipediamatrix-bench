@@ -36,4 +36,3 @@ XenServer	Yes	Yes	Yes	Paravirtualization and porting or hardware virtualization	
 XtratuM	Yes	No	Yes	Paravirtualization	Embedded, safety critical, secure	?	Yes	
 z/VM	Yes, both real and virtual (guest perceives more CPUs than installed), incl. dynamic CPU provisioning and reassignment	Yes	Yes, but not required	Virtualization (among first systems to provide hardware assists)	Servers	Near native[10]	Yes	
 z LPARs	Yes, both real and virtual (guest perceives more CPUs than installed), incl. dynamic CPU provisioning and reassignment; up to 64 real cores	Yes	Yes, but not required	Microcode and hardware hypervisor	Servers	Native: System z machines always run with at least one LPAR	Yes	
-Name	

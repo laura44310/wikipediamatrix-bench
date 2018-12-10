@@ -95,4 +95,3 @@ Visual BNF	LR(1), LALR(1)	?	C#	separate	generated	.NET Framework	Yes	Proprietary
 YooParse	LR(1), LALR(1)	?	C++	mixed	external	all	No	MIT	
 Parse	LR(1)	BNF in C++ types	?	?	none	C++11 compliant compiler	No	MIT	
 GGLL	LL(1)	Graph	Java	mixed	generated	Windows	Yes	MIT	
-Product	

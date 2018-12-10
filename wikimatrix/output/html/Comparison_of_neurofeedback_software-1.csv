@@ -28,4 +28,4 @@ NeuroRT Suite Koala Modulo	Real-time Processing, Self Neuromodulation, Bio/Neuro
 NeuroServer	Raw EEG to TCP/IP + EDF converter	0.7.4	Linux, Windows	[Rudi Cilibrasi]	GPL	No		
 OpenViBE	BCI, Visual Designer, Analysis, Neurofeedback	0.18	Linux, Windows	INRIA	AGPL-3	No	List of compatible systems	
 SmartMind	Neurofeedback	v2010	Windows	BrainTrain, Inc.	Proprietary	Unknown – not stated or in FDA database	Smartmind,[2] Brainmaster,[4] Thought Technology,[4] J&J,[4] Pocket Neurobics,[1] NeuroSky[2]	
-Myndlift	Neurofeedback: one-channel remote amplitude training	?	Android	Myndlift LTD	Proprietary	No	Muse	
+Neurofeedback: one-channel remote amplitude training	?	Android	Myndlift LTD	Proprietary	No	Muse	

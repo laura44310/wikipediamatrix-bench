@@ -18,8 +18,6 @@ MagicDraw	No Magic	Windows, Linux, Mac	BPMN 2.0			2007-09-24	2014-06-02	Propriet
 Microsoft Visio 2013	Microsoft	Windows	BPMN 2.0	BPMN2 Modeling and validation. Support for Data Input/Output (Excel, SharePoint...). No BPMN file format support (read: Visio, Visio Workflow Interchange; write: Visio, SVG, Autocad, HTML, EMF, GIF, JPG, PDF, PNG, TIFF, BMP, WMF, XPS).			2013	Proprietary	
 Modelio	Modeliosoft	Windows, Linux, Mac	BPMN 2.0	Includes BPMN, UML, SysML, Java round trip code generation, documentation, TOGAF, XSD, WSDL. The boundary events interrupting/non-interrupting symbols are inverted.		2009	2018-10-02[11]	GNU GPL[12]	
 OmniGraffle	Omni Group	Mac					2010	Proprietary	
-Signavio Process Manager	Signavio	Windows, Linux, Mac	BPMN 2.0	Cloud-based enterprise business process managing tool supporting analysis, modeling, simulation and execution of process models.	process model with data objects	2009	2018	Proprietary	
 Software Ideas Modeler	Dusan Rodina	Windows, Linux	BPMN 2.0			2009-Aug	2017-Jan	Proprietary	
 SYDLE SEED Community	SYDLE Systems	Cloud (browser based)		Supports modeling and execution of processes		2012-07	2012-07	Freeware	
 yEd	yWorks	Windows, Mac, Linux/Unix	BPMN 2.0	Stores graphics in internal format. Cannot load/save BPMN 2.0 files.			2013-03	Freeware	
-Name	

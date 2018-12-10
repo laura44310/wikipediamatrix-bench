@@ -23,4 +23,3 @@ XMPP/Jingle (Google Talk)	Jeremie Miller, standardized via IETF	1999 Jan	Open st
 YMSG (Yahoo! Messenger)	Yahoo!	1998, March 9	Proprietary	Username	Yes	No[needs update?]	No	No	Yes	Centralistic	Yes	Yes	Yes	Yes	Yes	No	No	
 Zephyr Notification Service	MIT	1987	Open standard	Kerberos principal e.g. user@ATHENA.MIT.EDU	Yes	No	No	Yes	Yes	Yes	No	Yes	No	No	No	No	No	
 SMS/MMS/EMS/Call	Friedhelm Hillebrand	1985	Proprietary	Phone number (e.g. +1234567890)	Yes	No	No	About 250 contacts in SIM, unlimited from phone.	No	serial messages	Medium	No	Yes	No	No	No	?	
-Protocol	

@@ -35,4 +35,3 @@ SQream DB[145]	Static	TINYINT (8-bit), SMALLINT (16-bit), INTEGER (32-bit), BIGI
 Teradata	Static	BYTEINT (8-bit), SMALLINT (16-bit), INTEGER (32-bit), BIGINT (64-bit)	FLOAT (64-bit)	DECIMAL, NUMERIC (38 digits)	CHAR, VARCHAR, CLOB	BYTE, VARBYTE, BLOB	DATE, TIME, TIMESTAMP (w/wo TIMEZONE)		PERIOD, INTERVAL, GEOMETRY, XML, JSON, UDT (User Defined Type)	
 UniData	Dynamic	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
 UniVerse	Dynamic	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
-	

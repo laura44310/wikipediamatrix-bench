@@ -20,4 +20,4 @@ PeerBlock	GPL	Free	Windows 8/8.1, 7, Vista x32/64
 NPF	BSD	Free	NetBSD kernel module	
 PF	BSD	Free	*BSD kernel module	
 ipfirewall	BSD	Free	*BSD package	
-IPFilter	GPLv2	Free	Package for multiple UNIX-like operating systems	
+GPLv2	Free	Package for multiple UNIX-like operating systems	

@@ -18,4 +18,3 @@ Synchronizer (krusader)		Windows, OS X, Linux	GPL v2	2.6.0 (2017-04-12)	No	Yes	N
 Syncthing	Go	Windows, OS X, Linux, Android, BSD, Solaris	MPL v2	0.14.45 (2018-03-06)	Yes	Yes	Yes	Yes	Yes	Yes	Distributed peer-to-peer sync	
 Synkron	C++	Windows, OS X, Linux	GPL v2	1.6.2 (2011-01-25){[18]}	Yes	Yes	No	Yes	Yes	Yes	no longer in active development	
 Unison	OCaml	Windows, OS X, Linux, BSD, Solaris, Android	GPL v3	2.51.2 (2018-01-27)	Yes	Yes	No	Yes	Yes (creates backup files)	Yes		
-Name	

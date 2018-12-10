@@ -9,4 +9,3 @@ HxD	Unlimited[2]	Yes	Windows 9x/NT and up	Yes	No	Yes	ANSI, ASCII, OEM, EBCDIC, M
 VEDIT	Standard, 2 GiB, Pro 64, unlimited	Yes	DOS version only	Yes	Yes	Yes	ANSI, OEM, EBCDIC, ASCII, custom		No	No	Yes	Yes	Yes	Yes	
 UltraEdit	>4 GiB	Yes	No	No	Yes	Yes	ANSI, OEM, EBCDIC, ASCII, Mac, Unix, UTF-8	Yes	Yes	No	Yes	Yes	Yes	
 WinHex	Unlimited	Yes	Yes	Yes	External: notepad	Yes	Partial support of these formats: ANSI, UNICODE, OEM, UTF-8/UTF-16, EBCDIC, ASCII	Yes	Yes	Only x86 Intel opcodes	Yes	Yes and replace		Yes[3]	Yes	
-	

@@ -14,4 +14,4 @@ JC virtual machine	Translates Java to C and compiles it with a C compiler.	1.4[2
 Jikes RVM		1.6[29]	Yes[30]	Port[31][32]	Apache Harmony[30]	No[33]	?	Yes	
 Kaffe		1.4[34]	Yes[13]	No		Yes[13]	No[13]	Yes[13]	
 Mysaifu JVM		?	Yes[35]	No		Yes[36]	No[36]	No[36]	
-SableVM	Unmaintained	1.4	Yes	No		Yes	No	No	
+Unmaintained	1.4	Yes	No		Yes	No	No	

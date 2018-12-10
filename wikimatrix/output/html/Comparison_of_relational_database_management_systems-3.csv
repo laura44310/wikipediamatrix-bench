@@ -46,4 +46,3 @@ Teradata	Yes	Yes	Yes	Yes (Hash and Partition)	?	Yes	SQL	Yes
 Tibero	Yes	Yes	Yes	Yes (Row-level locking)	Yes	Yes	API & GUI & SQL	Yes	
 UniData	Yes	No	Yes	?	?	Yes	Multiple	Yes	
 UniVerse	Yes	No	Yes	?	?	Yes	Multiple	Yes	
-Database Name	

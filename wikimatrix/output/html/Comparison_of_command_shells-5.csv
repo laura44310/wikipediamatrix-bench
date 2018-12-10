@@ -21,4 +21,4 @@ PowerShell	objects concurrent	Yes	No	Yes	Yes	?
 rc	text concurrent	Yes	Yes (via: <{cmd} if system supports /dev/fd/<n>)	Yes	No	?	
 BeanShell	not supported	?	?	?	Yes	?	
 VMS DCL	text (via PIPE command)	Yes	No	Yes (spawn)	Yes (server TCP only)	No	
-fish	bytes concurrent	Yes (...)	No (broken)[68]	No	No	N/A[66]	
+bytes concurrent	Yes (...)	No (broken)[68]	No	No	N/A[66]	

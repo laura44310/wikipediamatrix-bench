@@ -34,4 +34,3 @@ Transmission	Yes	Yes	Yes	Daemon, JSON-RPC over HTTP remote control API	C, Object
 Tribler	Yes	Partial	Partial	No	Python, C++	libtorrent (Rasterbar)	No	Yes	
 Vuze (formerly Azureus)	Yes	Yes	Partial	Telnet, XML over HTTP remote control API	Java, SWT	-	Yes	Yes[63]	
 Xunlei	Yes	No	No	remote control over internet[64]	C++	-	No	No	
-BitTorrent client	

@@ -13,4 +13,4 @@ JC virtual machine	No	Yes	Yes	No	No	No	No	No	No	No	No	No	No	No	No	No	No
 Jikes RVM	No[45]	Yes[45]	No[45]	No[45]	No[45]	No[45]	No[45]	No[45]	Yes[45]	No[45]	No[45]	No[45]	Yes[45]	No[45]	No[45]	No[45]	No[45]		
 Kaffe	Using Cygwin[13]	Yes[13]	Yes[13]	Yes[13]	Yes[13]	Yes[13]	?	Yes[13]	Yes[13]	No[13]	Yes[13]	No[13]	Yes[13]	Yes[13]	No[13]	No[13]	Yes	HPUX 11.x, BSDI 2.x, Unixware, SCO 3.2v5, NeXTStep 3.x, DG/UX, OpenStep 4.x, QNX 4.x, NCR MP-RAS 3.x, OSKit 0.96 +, GNU Hurd, Cygwin, DragonFly BSD, Interix, Ultrix 4.2, PS2Linux, AUX, MachTen 4.0.3, Fujitsu UXP/DS[13]	
 Mysaifu JVM	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	Yes[46]	No[46]		
-SableVM	Using Cygwin[47]	Yes[47]	Yes[47]	?	?	?	?	?	Yes[47]	?	?	?	?	?	?	?	?		
+Using Cygwin[47]	Yes[47]	Yes[47]	?	?	?	?	?	Yes[47]	?	?	?	?	?	?	?	?		

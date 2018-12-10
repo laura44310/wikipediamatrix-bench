@@ -13,4 +13,4 @@ metasfresh	GPL2	Yes	Yes	Yes	Mid-market	Yes	Yes	Yes	Yes		Yes	Yes		Yes	Yes	Yes	Yes
 Openbravo	MPL derivative with badgeware clause	Yes	Yes	Yes	Mid-market	Yes	Yes	Yes	Yes		Yes	Yes		Yes	Yes	Yes	Yes	Yes	Yes		Yes			Yes	Yes	Yes	Project Management, Multi-language, Localized by country	Web-based, on-premises, Saas, On Demand	Java	
 Postbooks	CPAL	Yes	Yes	Yes	Low to mid-market	Yes	Yes	Yes	Yes		Yes	Yes			Yes	Yes	Yes		Yes		Yes		Yes				Professional Services	Client-server	C++, Qt	
 SQL-Ledger	GPL	Yes	Yes	Yes	Mid-market	Yes	Yes	Yes	Yes		Yes				Yes				Yes		Yes			Yes	Yes			Web-based	Perl	
-Tryton	GPL	Yes	Yes	Yes	Low to mid-market	Yes	Yes	Yes	Yes	Yes[1]		Yes[2]			Yes	Yes			Yes[3]	Yes	Yes		Yes	Yes[4]	Yes[5]	Yes		Thin client & Web-based client - Server	Python	
+GPL	Yes	Yes	Yes	Low to mid-market	Yes	Yes	Yes	Yes	Yes[1]		Yes[2]			Yes	Yes			Yes[3]	Yes	Yes		Yes	Yes[4]	Yes[5]	Yes		Thin client & Web-based client - Server	Python	

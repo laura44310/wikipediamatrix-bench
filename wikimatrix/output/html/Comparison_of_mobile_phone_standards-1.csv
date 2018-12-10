@@ -11,4 +11,4 @@ iBurst	802.20	Mobile Internet	HC-SDMA/TDD/MIMO	95	36	Cell Radius: 3–12 km Speed:
 EDGE Evolution	GSM	Mobile Internet	TDMA/FDD	1.6	0.5	3GPP Release 7	
 UMTS W-CDMA HSPA (HSDPA+HSUPA)	UMTS/3GSM	Mobile Internet	CDMA/FDD CDMA/FDD/MIMO	0.384 14.4	0.384 5.76	HSDPA is widely deployed. Typical downlink rates today 2 Mbit/s, ~200 kbit/s uplink; HSPA+ downlink up to 56 Mbit/s.	
 UMTS-TDD	UMTS/3GSM	Mobile Internet	CDMA/TDD	16	Reported speeds according to IPWireless using 16QAM modulation similar to HSDPA+HSUPA	
-EV-DO Rel. 0 EV-DO Rev.A EV-DO Rev.B	CDMA2000	Mobile Internet	CDMA/FDD	2.45 3.1 4.9xN	0.15 1.8 1.8xN	Rev B note: N is the number of 1.25 MHz carriers used. EV-DO is not designed for voice, and requires a fallback to 1xRTT when a voice call is placed or received.	
+CDMA2000	Mobile Internet	CDMA/FDD	2.45 3.1 4.9xN	0.15 1.8 1.8xN	Rev B note: N is the number of 1.25 MHz carriers used. EV-DO is not designed for voice, and requires a fallback to 1xRTT when a voice call is placed or received.	

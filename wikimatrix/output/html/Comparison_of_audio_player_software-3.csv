@@ -6,12 +6,12 @@ Audion	?	?	?	?	?	?	?	?	?	?
 cmus	Yes	No	No	No	No	No	No	Yes	No	No	
 Cog	?	?	?	?	?	?	?	?	?	?	
 Clementine	Yes	Yes	No	No	No	?	No	No	No	No	
-Exaile	Yes	Yes	Yes[19]	No	No	Yes[18]	Yes[18]	Yes	Yes[18]	No	
-foobar2000	Yes	Yes	Yes	Yes[18]	Yes[18]	Yes[18]	Partial[18]	Yes	Partial[18]	Yes	
+Exaile	Yes	Yes	Yes[20]	No	No	Yes[19]	Yes[19]	Yes	Yes[19]	No	
+foobar2000	Yes	Yes	Yes	Yes[19]	Yes[19]	Yes[19]	Partial[19]	Yes	Partial[19]	Yes	
 iTunes	Yes	Yes	No	No	No	No	Yes	Yes	No	No	
 JRiver Media Center	Yes	Yes	Yes	Yes	Yes	Yes[featurenotes 8]	Yes	Yes	Yes	No	
 JuK	?	?	?	?	?	?	?	?	?	?	
-MediaMonkey	Yes	Yes	Yes	Partial[18]	Partial[18]	Partial[18]	Partial[18]	Yes	Yes	?	
+MediaMonkey	Yes	Yes	Yes	Partial[19]	Partial[19]	Partial[19]	Partial[19]	Yes	Yes	?	
 MPXPLAY	?	?	?	?	?	?	?	?	?	?	
 MusicBee	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	
 Musicmatch Jukebox	?	Partial[featurenotes 9]	?	No	No	?	?	?	?	?	
@@ -25,4 +25,3 @@ Winamp	Yes	Yes	?	No	Yes	?	Yes	?	No	?
 XMMS	Partial	Yes	?	No	No	No	No	Yes	No	No	
 XMPlay	Yes	No	No	No	No	No	Yes	Yes	No	Yes	
 Zinf	?	?	?	?	?	?	?	?	No	?	
-Audio player	

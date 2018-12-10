@@ -131,4 +131,4 @@ Wolfram Language	Symbolic language	Yes	Yes	Yes	Yes				logic, distributed	No
 XL		Yes	Yes						concept programming	No	
 Xojo	Application, RAD, general, web	Yes	Yes		Yes		Yes	Yes		No	
 XPath/XQuery	Databases, data processing, scripting			Yes					tree-oriented	W3C 1999 XPath 1, 2010 XQuery 1, 2014 XPath/XQuery 3.0	
-Caché Object Script	Application Programming	Yes	No	Yes	Yes				Concurrent	No	
+Application Programming	Yes	No	Yes	Yes				Concurrent	No	

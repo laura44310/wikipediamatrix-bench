@@ -30,4 +30,3 @@ Xen	Yes	Yes[32]	Yes[22]	Yes	Supported with VMGL[30]	?	Yes	Yes			Yes
 XenServer	Yes		Yes[22]	Yes	Supported with VMGL[30]	Yes	Yes	Yes			Yes	
 z/VM	Yes	Not applicable	Yes (zURM/HMC)	Yes	Not applicable			Yes (2011)		Not applicable	Not applicable	
 z LPARs	Yes	Not applicable	Yes (HMC)	Yes	Not applicable			Yes (2007)		Not applicable	Not applicable	
-Name	

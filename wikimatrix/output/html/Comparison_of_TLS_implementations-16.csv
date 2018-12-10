@@ -16,4 +16,3 @@ rustls	No	Yes	No	No	No	No
 SChannel	No	Yes	No	No		No	
 Secure Transport	No	Yes[218][219]	No	Yes		No	
 wolfSSL	No	Yes	No	Yes	Yes	Yes[220]	
-Implementation	

@@ -12,4 +12,4 @@ OSQ	?	?	?	?	?	?
 RealAudio Lossless	Lossless	Varies (see article)	Varies (see article)	Varies	Yes	Yes: Up to 6 channels	
 True Audio (TTA)	Lossless	0–4 GHz	1 to > 64	approx. 1045 ms[58]	Yes	Yes: Up to 65535 channels	
 WavPack Lossless	Lossless, Hybrid	1 Hz to 16.777216 MHz	Varies in lossless mode; supports 32-bit float input; 2.2 minimum in lossy mode	?	Yes	Yes: Up to 256 channels	
-Windows Media Audio Lossless	Lossless	8, 11.025, 16, 22.05, 32, 44.1, 48, 88.2, 96 kHz	16, 24	>100 ms	Yes	Yes: Up to 6 channels	
+Lossless	8, 11.025, 16, 22.05, 32, 44.1, 48, 88.2, 96 kHz	16, 24	>100 ms	Yes	Yes: Up to 6 channels	
