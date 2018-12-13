@@ -7,4 +7,4 @@ IMSL Numerical Libraries	Rogue Wave Software	C, Java, C#, Fortran, Python	1970	m
 Math.NET Numerics	C. Rüegg, M. Cuda, et al.	C#, F#, C, PowerShell	2009	3.20 / July 2017	Free	MIT/X11	General purpose numerical analysis and statistics library for the .NET Framework and Mono, with optional support for native providers.	
 NAG Numerical Library	The Numerical Algorithms Group	C, Fortran	1971	many components	Not free	Proprietary	General purpose numerical analysis library.	
 NMath	CenterSpace Software	C#	2003	6.2 / March 2016	$995	Proprietary	Math and statistical libraries for the .NET Framework	
-scipy.org community	Python	2001	1.0.0 / 25 October 2017	Free	BSD	Adds numerical programming capabilities to the Python programming language. Related to NumPy, and therefore connected to the previous Numeric and Numarray packages for Python	
+SciPy	scipy.org community	Python	2001	1.0.0 / 25 October 2017	Free	BSD	Adds numerical programming capabilities to the Python programming language. Related to NumPy, and therefore connected to the previous Numeric and Numarray packages for Python	

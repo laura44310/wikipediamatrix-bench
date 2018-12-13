@@ -36,3 +36,4 @@ Snak	Kent Sorensen	Commercial	Proprietary	GUI	?
 Visual IRC		Free software	GPL	GUI	?	
 WeeChat	Sebastien Helleu	Free software	GPL	TUI, GUI[Note 7]	C	
 XChat (evolved into HexChat)[Note 8]		Unix/Linux: free software; Windows: commercial, 30-day trial[16] (HexChat is free of charge)	GPL; or proprietary for Windows	TUI, GUI	C	
+Client	Primary developers	Distribution model	Software license	User interface	Programming language	

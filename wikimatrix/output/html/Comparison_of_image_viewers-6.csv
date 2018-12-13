@@ -22,3 +22,4 @@ Windows Photo Viewer	No	No	Yes: Exif	Yes rotate, lossless JPEG rotate, annotate 
 XnView and XnViewMP	Yes name, date, file size, image size, meta data, ...	Yes individual, linear	Yes IPTC, Exif, JPEG comment	Yes many	Yes configurable	Yes Custom monitor profile supported	Yes	Partial Supported in XnViewMP	Supports Adobe Photoshop Filter 8BF plugins	
 xv	No	Partial individual, all	Partial view comments	Yes many	Yes					
 Zoner Photo Studio	Yes name, date, file size, meta data	Yes individual, linear	Yes IPTC, Exif, XMP, JPEG comment	Yes very many	Yes configurable	Yes	Yes	Yes	sign images, 16 bits per channel, GPS support, merge pictures to HDR, WIC codecs support	
+Program	search (criteria)	selection (styles)	metadata	adjust image (functions)	hotkeys	color management (ICC)	JPEG Lossless operations	Unicode support	other / special	

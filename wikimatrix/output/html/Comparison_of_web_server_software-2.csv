@@ -1,5 +1,5 @@
 Server	Security		Dynamic content[a]		
-basic access authentication	
+basic access authentication	digest access authentication	SSL/TLS https	virtual hosting	CGI	FCGI	SCGI	WSGI	Java Servlets	SSI	ISAPI	SSJS	Runs in user space or kernel space	Administration console	IPv6	HTTP/2	QUIC	
 AOLserver	Yes	No	Yes[b][c][d][1]	Yes	Yes	No	Unknown	No	No	Yes	Unknown	Unknown	user	Unknown	Unknown	Unknown	Unknown	
 Apache HTTP Server	Yes	Yes	Yes[e][c][2][f][3]	Yes	Yes	Yes	Yes	Yes[e]	No[g]	Yes	Yes[h]	Unknown	user	Yes[i]	Yes	Yes	Unknown	
 Apache Tomcat	Yes	Yes	Yes[j][4]	Yes	Yes	No	Unknown	No	Yes	Yes	No[k]	Unknown	user	Yes	Yes[l]	Yes	Unknown	
@@ -30,4 +30,4 @@ TUX web server	No	No	No	Yes	Yes	No	Unknown	No	No	No	No	Unknown	kernel	Unknown	Un
 Wakanda Server	Yes	Yes	Yes	Yes	No	No	No	No	No	No	No	Yes	user	Yes	Yes	Unknown	Unknown	
 Xitami	Yes	Unknown	paid version	Yes	Yes	Unknown	Unknown	No	Unknown	Yes	Unknown	Unknown	user	Unknown	Unknown	Unknown	Unknown	
 Yaws	Yes	Unknown	Yes	Yes	Yes	Yes	Unknown	No	No	Yes	No	Unknown	user	Unknown	Yes	Unknown	Unknown	
-Yes	Yes	Yes	Yes	Yes	Yes	Unknown	No	No[g]	Yes	Yes	Unknown	user	Yes	No	Unknown	Unknown	
+Zeus Web Server	Yes	Yes	Yes	Yes	Yes	Yes	Unknown	No	No[g]	Yes	Yes	Unknown	user	Yes	No	Unknown	Unknown	

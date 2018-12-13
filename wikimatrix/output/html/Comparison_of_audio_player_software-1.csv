@@ -33,3 +33,4 @@ Winamp	Yes	Yes	No	No	Yes	No	No	No	No
 XMMS	No	Yes	Yes	No	No	Yes	Yes	Yes	No	
 XMPlay	Yes	No	No	No	No	No	No	No	No	
 Zinf	Yes	No	Yes	No	No	Yes	Yes	Yes	No	
+Audio player	Windows	OS X	Linux	iOS	Android	BSD Unix	Solaris	Other Unix	DOS	

@@ -5,7 +5,7 @@ BitComet	BitComet Development Group	Proprietary, Adware	1.51 (June 12, 2018; 5 m
 BitLet	various	ASL	?	(Java runtime)	2015	
 BitLord	House of Life	Proprietary, Adware installs WhenU adware	Windows: 2.4.5 (February 13, 2017; 21 months ago (2017-02-13)) [±] macOS: 2.4.4-308 (June 25, 2016; 2 years ago (2016-06-25)) [±]	Windows, macOS	2017	
 BitTornado	John Hoffman	MIT	0.3.17 (October 19, 2006; 12 years ago (2006-10-19)) [±]	Windows, macOS, Linux, BSD	2006	
-Windows	BitTorrent	BitTorrent	Proprietary, Adware	Windows 7.10.4.44847 / November 2, 2018; 30 days ago (2018-11-02)[7] Mac 7.4.3.43797 / November 15, 2018; 17 days ago (2018-11-15)[8] Android 5.3.3 / September 10, 2018; 2 months ago (2018-09-10)[9]	7.10.4.44847 / November 2, 2018; 30 days ago (2018-11-02)[7]	7.4.3.43797 / November 15, 2018; 17 days ago (2018-11-15)[8]	5.3.3 / September 10, 2018; 2 months ago (2018-09-10)[9]	Windows, macOS	2018	
+Windows	Mac	Android	BitTorrent	BitTorrent	Proprietary, Adware	Windows 7.10.4.44847 / November 2, 2018; 30 days ago (2018-11-02)[7] Mac 7.4.3.43797 / November 15, 2018; 17 days ago (2018-11-15)[8] Android 5.3.3 / September 10, 2018; 2 months ago (2018-09-10)[9]	7.10.4.44847 / November 2, 2018; 30 days ago (2018-11-02)[7]	7.4.3.43797 / November 15, 2018; 17 days ago (2018-11-15)[8]	5.3.3 / September 10, 2018; 2 months ago (2018-09-10)[9]	Windows, macOS	2018	
 Windows	7.10.4.44847 / November 2, 2018; 30 days ago (2018-11-02)[7]	
 Mac	7.4.3.43797 / November 15, 2018; 17 days ago (2018-11-15)[8]	
 Android	5.3.3 / September 10, 2018; 2 months ago (2018-09-10)[9]	
@@ -39,3 +39,4 @@ Transmission	various	GPL/MIT	2.94 (May 1, 2018; 6 months ago (2018-05-01)) [±][3
 Tribler	The Tribler Team	LGPL	7.1.0 (October 9, 2018; 54 days ago (2018-10-09)) [±][36]	Windows, macOS, Linux, Android	2018	
 Vuze (formerly Azureus)	Vuze	Proprietary (platform), GPL (core engine), Adware	5.7.6.0 (November 2, 2017; 12 months ago (2017-11-02)) [±][37]	Windows, macOS, Linux, Android	2017	
 Xunlei	Thunder Networking Technologies	Proprietary	Microsoft Windows: 9.1.43.938 (10 November 2017; 12 months ago (2017-11-10)) [±][38] macOS: 3.1.7.3266 (27 October 2017; 12 months ago (2017-10-27)) [±][38] iOS: 5.20 (18 June 2016; 2 years ago (2016-06-18)) [±][38] Android: 5.33 (28 February 2017; 20 months ago (2017-02-28)) [±][38]	Windows, macOS, Android, iOS	2017	
+Name	Developer	Software license	Latest stable software release		Year	

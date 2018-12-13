@@ -1,5 +1,5 @@
 Client	HTML email	UTF-8 support	Image blocking	Junk filtering	Phishing filtering	Thread view	Conversation view	PGP support	S/MIME support	
-local	
+local	server- side	inline	PGP/MIME or OpenPGP	protocol	OCSP	CRL	certificates on tokens, smartcards support	
 Alpine	Yes	Yes	Yes	?	?	?	Yes	?	Yes	?	Yes	?	?	?	
 Becky! Internet Mail	Yes	Yes	Yes	No	No	No	Yes	No	Yes	?	Yes	?	?	?	
 Citadel	Yes	Yes	No	Yes [Note 1]	?	?	No	?	?	?	?	?	?	
@@ -46,4 +46,5 @@ Windows Live Mail	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	?	Yes	?	?	?
 Windows Mail	Yes	Yes	?	Yes	?	?	?	?	?	?	?	?	?	?	
 YAM	?	Yes	?	Yes	?	?	No	No	Yes	?	?	?	?	?	
 Zimbra	Yes	Yes	Yes	Yes	Yes	Yes (depends on antivirus)	Yes	?	?	No	?	?	?	
-Client	
+Client	HTML email	UTF-8 support	Image blocking	Junk filtering	Phishing filtering	Thread view	Conversation view	PGP support	S/MIME support	
+local	server- side	inline	PGP/MIME or OpenPGP	protocol	OCSP	CRL	certificates on tokens, smartcards support	

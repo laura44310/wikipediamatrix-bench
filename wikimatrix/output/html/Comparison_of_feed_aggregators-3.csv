@@ -56,3 +56,4 @@ Winamp	?	?	?	?	Yes	?	?	?	?	Yes	Notification only
 Windows Live Mail	?	Yes	Yes	Yes	?	?	Yes	?	Yes	Yes	Yes	
 Zimbra	?	Yes	Yes	Yes	?	?	Yes	?	?	?	?	
 Zune	?	?	?	?	Yes	?	?	?	?	?	?	
+Client	feed URI scheme	RSS 0.91	RSS 1.0	RSS 2.0	RSS enclosure	MRSS	Atom	other standard	Delta updates	IPv6	Auto updates	

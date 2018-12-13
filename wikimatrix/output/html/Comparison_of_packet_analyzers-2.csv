@@ -21,4 +21,4 @@ snoop	No	No	No	No	Yes	No
 tcpdump	Yes (WinDump)	Yes	Yes	Yes	Yes	AIX, HP-UX, IRIX, Tru64 UNIX	
 Tranalyzer	No	Yes	Yes	?	?	?	
 Wireshark (formerly Ethereal)	Yes	Yes	Yes	Yes	Yes	AIX, HP-UX, IRIX, Tru64 UNIX	
-No	No	Yes	No	No	No	
+Xplico	No	No	Yes	No	No	No	

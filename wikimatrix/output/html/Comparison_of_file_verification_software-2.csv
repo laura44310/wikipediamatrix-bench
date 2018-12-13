@@ -53,3 +53,4 @@ Toolsley Hash & Validate	Yes	Yes	Yes	No	Yes	No	No	No	No	No	No	No	No	No	No	?
 Total Commander	Yes	Yes	Yes	No	Yes	No	Yes	?	No	No	No	No	No	No	No	?	
 WinHasher	No	Yes	Yes	No	Yes	Yes	Yes	?	No	No	Yes	No	No	Yes	Yes	?	
 wxChecksums	Yes	Yes	No	No	No	No	No	?	No	No	No	No	No	No	No	?	
+Software	CRC32	MD5	SHA-1	SHA-224	SHA-256	SHA-384	SHA-512	SHA-3	Panama	RIPEMD-128	RIPEMD-160	RIPEMD-256	RIPEMD-320	Tiger	Whirlpool	Other	

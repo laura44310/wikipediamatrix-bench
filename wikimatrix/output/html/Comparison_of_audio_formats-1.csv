@@ -1,5 +1,5 @@
 Audio compression format	Creator	First public release date	Latest stable version	cost	Proprietary implementations (codecs)	Open-source implementations (codecs)	Uses (other than consumer audio)	Music reproduction (consumer audio)	Telephony app	Lossless audio compression	Patented	DRM	
-Encoder	
+Encoder	Player	
 AAC	ISO/IEC MPEG Audio Committee	1997	ISO/IEC 14496-3	Non-free[1]	FAAC (encoding only), Nero Digital Audio, Apple CoreAudio (via QuickTime, iTunes or afconvert[2])	FAAD2 (decoding only), FFmpeg, Audiocogs[3] (decoding only), Fraunhofer FDK AAC	Digital TV service, Digital Radio, Internet streaming	Yes	AAC-LD/AAC-ELD	MPEG-4 SLS	Yes	FairPlay (.m4p only, discontinued)	
 AC-3	Dolby Laboratories	1992	ATSC A52:2012	Free	DVD players, digital television	FFmpeg, liba52 (decoding only), Aften (encoding only), libavc (2.0 channels max)	Theatrical movie presentation, Digital TV service & home-video (personal recorders, DVD, etc.)	No	No	No	No	?	
 ALAC	Apple Inc.	2004-04-28	QuickTime 7.6	Free	QuickTime, iTunes, RealPlayer	MacOSforge, FFmpeg, Audiocogs[4] (decoding only)	-	Music archival	Yes	Yes	Free	Possible, but never implemented	
@@ -45,4 +45,5 @@ TwinVQ	Nippon Telegraph and Telephone	1996 (?)		Non-free	Non-free	Winamp with VQ
 Vorbis (Ogg)	Xiph.Org Foundation	2000-05-11	1.3.6	Free	Free		libvorbis,[37] aoTuV,[38] FFmpeg	-	Yes	No	No	No	No	
 WavPack	Conifer Software	1998	5.1.0	Free	Free		WavPack,[39] FFmpeg	-	-	Yes	Yes	No	No	
 Windows Media Audio	Microsoft	1999	11.0	Free Windows Media Encoder[40]	Free for licensees of the Windows operating system[41]	Windows Media Player, Windows Media Encoder	FFmpeg (decoding only for Pro, Lossless and Voice)	internet streaming	Yes	No	Yes	Yes	Optional[42]	
-Audio compression format	
+Audio compression format	Creator	First public release date	Latest stable version	Encoder	Player	Proprietary implementations (codecs)	Open-source implementations (codecs)	Uses (other than consumer audio)	Music reproduction (consumer audio)	Telephony app	Lossless audio compression	Patented	DRM	
+cost	

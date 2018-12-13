@@ -17,4 +17,4 @@ cab	Yes	Yes2	?	No	?	?
 rpm	Yes	No	Yes	Yes	?	?	
 deb	Yes	No	Yes	Yes	?	?	
 7z	Yes	Yes	Yes	Yes	?	?	
-Alternate data streams	
+Archive format	Built-in compression	Self-extracting	Directory Structure	POSIX attributes	ACLs	Alternate data streams	

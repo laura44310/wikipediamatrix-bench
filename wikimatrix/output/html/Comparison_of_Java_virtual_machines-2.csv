@@ -1,5 +1,5 @@
 JVM	Status	Latest supported Java version	Supported class libraries	Performance	
-GNU Classpath	
+GNU Classpath	OpenJDK	Other	Interpretation	AOT	JIT	
 CACAO		1.6[16]	Yes[1]	Yes[1]		No[17]	No[17]	Yes[17]	
 GCJ	No longer maintained or distributed by GNU as of GCC 7 [18]	?	Yes	No		Yes	Yes	No	
 HotSpot, OpenJDK edition	Reference implementation.	1.8	No	Yes		Yes	No	Yes	
@@ -14,4 +14,4 @@ JC virtual machine	Translates Java to C and compiles it with a C compiler.	1.4[2
 Jikes RVM		1.6[29]	Yes[30]	Port[31][32]	Apache Harmony[30]	No[33]	?	Yes	
 Kaffe		1.4[34]	Yes[13]	No		Yes[13]	No[13]	Yes[13]	
 Mysaifu JVM		?	Yes[35]	No		Yes[36]	No[36]	No[36]	
-Unmaintained	1.4	Yes	No		Yes	No	No	
+SableVM	Unmaintained	1.4	Yes	No		Yes	No	No	

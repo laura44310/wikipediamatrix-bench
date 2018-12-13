@@ -31,3 +31,4 @@ Windows Photo Viewer			BMP	JPEG	PNG	TIFF	GIF		WMF, EMF, ICO
 XnView and XnViewMP			BMP	JPEG (IPTC&Exif)	PNG	TIFF (multipage)	GIF	PSD	reads over 500 formats,[1] including: FAX, EPS, WMF, DICOM, DPX; writes about 50 formats	
 Xv			BMP	JPEG	PNG (with patch)	TIFF	GIF		PBM, PGM, PPM, XPM, Sun Rasterfile, Targa, RGB, PCX, FITS, PM, PostScript	
 Zoner Photo Studio			BMP	JPEG	PNG	TIFF	GIF/aGIF		HDP/WDP, PSD, PSB, PSP/PSPIMAGE, DIB/RLE, J2K/JPC/JP2, PAM, PBM, PGM, PNM, PCD, PCX, WBMP/WBM, TGA, ICO, MAC, WPG, BMI, MDM, THN, DCM, stereo pictures: JPS, PNS, BMS.	
+Program	Comic book	PDF	BMP	JPEG	PNG	TIFF	GIF	PSD	Other graphics file formats	

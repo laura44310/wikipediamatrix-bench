@@ -1,5 +1,5 @@
 Name	User interface	SSH1	SSH2	Additional protocols	Tunneling	Session multiplexing [Note 1]	Kerberos	IPv6	Terminal	SFTP/SCP	Proxy client[Note 2]	
-TELNET	
+TELNET	rlogin	Port forwarding	SOCKS [Note 3]	VPN [Note 4]	
 AbsoluteTelnet	GUI (multi-session, single-window)	Yes	Yes	Yes	No	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	SOCKS 4, 5; HTTP	
 Bitvise	GUI or command line	No	Yes	No	No	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	SOCKS 4, 5; HTTP	
 Dropbear	command line	No	Yes	No	No	Yes	No	No	No	No	Yes	Yes	Yes	?	
@@ -15,4 +15,5 @@ TtyEmulator	GUI or command line	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	No	No	Yes	No	SOCK
 WinSCP	GUI or command line	Yes	Yes	No	No	limited[Note 7]	No	No	No	Yes	Yes	simple	Yes	SOCKS 4, 5; HTTP; Telnet; Local	
 Xshell	TDI or command line	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	SFTP	SOCKS 4, 5	
 ZOC	TDI or command line	Yes	Yes	Yes	Yes	Yes	Yes	No	No	No	Yes	Yes	SCP through terminal[Note 8]	SOCKS 4; 5; HTTP; Jumpserver	
-Name	
+Name	User interface	SSH1	SSH2	Additional protocols	Tunneling	Session multiplexing [Note 1]	Kerberos	IPv6	Terminal	SFTP/SCP	Proxy client[Note 2]	
+TELNET	rlogin	Port forwarding	SOCKS [Note 3]	VPN [Note 4]	

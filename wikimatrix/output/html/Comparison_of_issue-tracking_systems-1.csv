@@ -39,3 +39,4 @@ Twproject	Open Lab	Proprietary, some parts LGPL	Java	all relational (uses Hibern
 Usersnap	Usersnap GmbH	Proprietary	Python, JavaScript	MongoDB,	2013		
 Wrike	Wrike, Inc.	Proprietary, hosted	Java	PostgreSQL	2006		
 YouTrack	JetBrains s.r.o.	Proprietary, stand-alone and hosted, free version, free for open source projects	Java, MPS-based DSLs	JetBrains DB	2009		
+System	Creator	License	Implementation language(s)	Back end	Launch date	Refs	

@@ -19,3 +19,4 @@ SChannel 10	Yes	Yes	Yes	Yes[141]	No[92]	No[92]
 Secure Transport	Yes	Yes	Yes	No	No	No	
 wolfSSL	Yes	Yes	Yes	Yes	No	No	
 Erlang/OTP SSL application	Yes	Yes	Yes	Yes	No	No	
+Implementation	HMAC-MD5	HMAC-SHA1	HMAC-SHA256/384	AEAD	GOST 28147-89 IMIT	GOST R 34.11-94	

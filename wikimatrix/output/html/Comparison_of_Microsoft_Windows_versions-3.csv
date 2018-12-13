@@ -27,3 +27,4 @@ Windows 10	2015-07-29	10.0	10240	N/A	Unsupported (2017-05-09)	"Threshold"	IA-32,
 2018-10-02	17763	N/A	"Redstone 5"	
 Windows Server 2016	2016-09-26	14393	N/A	Supported	"Redstone" Server	x86-64		Server	
 Windows Server 2019	2018-10-02	17763		Supported	"Redstone" Server 5	x86-64		Server	
+Name	Release date	Version	RTM build	Latest build	Status support	Codename, working name	Supported architectures	Editions	OS type	

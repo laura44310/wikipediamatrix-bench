@@ -6,4 +6,4 @@ Slackware Package	.tgz	Patrick Volkerding	1993 Slackware 1.0	tar and gzip	Yes	No
 Windows Installer (also MSI)	.msi	Microsoft	2000 Windows 2000	OLE Structured Storage, Cabinet and SQL	Optional PKCS7 Authenticode Signature	No	No	No	2 s	
 Java Archive (JAR1)	.jar	Sun Microsystems	1997 JDK 1.1	PKZIP	Yes	?	?	Yes	?	
 Google Chrome extension package	.crx	Google	2009 (Chrome 4.0)	Zip	?	?	Yes[2][not in citation given]	?	?	
-.pkg.tar.xz, .pkg.tar (no compression)	Judd Vinet	2001 (before ArchLinux 0.1)	tar and xz (formerly gzip)	Yes	No	No	Yes	1 s	
+Pacman	.pkg.tar.xz, .pkg.tar (no compression)	Judd Vinet	2001 (before ArchLinux 0.1)	tar and xz (formerly gzip)	Yes	No	No	Yes	1 s	

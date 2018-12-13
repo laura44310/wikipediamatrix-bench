@@ -35,4 +35,4 @@ VMR-WB	ACELP	16 kHz	8.55, 4.0, 0.8, 13.3, 6.2, 2.7, 1.0 kbit/s	33.75 ms	Yes	Yes	
 Vorbis (Ogg)	MDCT	8–192 kHz	45-500 kbit/s (32-500 kbit/s for aoTuV tunings)	>100 ms	Yes/ABR	Yes	Yes: Dual, Lossless, Phase, Point (Intensity)	Yes: Up to 255 channels	
 WavPack Lossy	Prediction, Quantization	1 Hz to 16.777216 MHz	196 kbit/s and up in lossy mode (for CD audio)	?	Yes	Yes	Yes	Yes: Up to 256 channels	
 Windows Media Audio Standard	MDCT	8, 11.025, 16, 22.05, 32, 44.1, 48 kHz	8–768 kbit/s	>100 ms	Yes	Yes	Yes	No	
-MDCT	8, 11.025, 16, 22.05, 32, 44.1, 48, 88.2, 96 kHz	4–768 kbit/s	>100 ms	Yes	Yes	Yes	Yes: At least 8 channels, expandable	
+Windows Media Audio Pro	MDCT	8, 11.025, 16, 22.05, 32, 44.1, 48, 88.2, 96 kHz	4–768 kbit/s	>100 ms	Yes	Yes	Yes	Yes: At least 8 channels, expandable	

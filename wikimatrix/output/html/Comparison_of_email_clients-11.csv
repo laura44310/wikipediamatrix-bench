@@ -1,5 +1,5 @@
 Client	Message templates	Message templates individual for	Support in message templates scripts, programming languages	
-new	
+new	reply	forward	read confirmation	save	print	JavaScript	VBScript	PHP Scripts	Python	Regular expressions	Java	Other (specify)	
 Alpine	Yes	Yes	Yes	?	?	?	any	No	No	No	No	?	No	?	
 Becky! Internet Mail	Yes	Yes	Yes	Yes	Yes	Yes	any account folder	?	?	?	?	?	?	
 Citadel	?	?	?	?	?	?	?	?	?	?	?	?	?	?	
@@ -42,4 +42,5 @@ Windows Live Mail	Yes[Note 6]	Yes[Note 6]	?	Yes[Note 6]	?	?	?	Yes	No	?	?	?	?	?
 Windows Mail	?	?	?	?	?	?	?	?	?	?	?	?	?	?	
 YAM	Yes	Yes	Yes	?	Yes	Yes	?	No	No	No	No	?	?	ARexx	
 Zimbra	Yes	Yes	Yes	Yes	Yes	Yes	any	No	No	No	No	No	?	?	
-Client	
+Client	Message templates	Message templates individual for	Support in message templates scripts, programming languages	
+new	reply	forward	read confirmation	save	print	JavaScript	VBScript	PHP Scripts	Python	Regular expressions	Java	Other (specify)	

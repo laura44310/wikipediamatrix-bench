@@ -2,7 +2,6 @@ package fr.univrennes1.istic.wikipediamatrix;
 
 
 import java.io.File;
-import java.io.IOException;
 import java.util.Scanner;
 
 import org.jsoup.HttpStatusException;

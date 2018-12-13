@@ -10,3 +10,4 @@ WLIrc	Yes	Yes	?	No	No	No	?
 Yaaic	No[5]	?	?	Yes	Yes	?	?	
 Simple IRC	Yes	Yes	?	Yes	Yes	?	?	
 zsIRC	Yes	No	No	Yes	Yes	No	No	
+Client	CTCP	DCC	IPv6	SSL	TLS	OCSP	CRL	

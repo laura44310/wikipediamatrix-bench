@@ -5,4 +5,4 @@ MDI: Overlappable windows	Yes	Yes	Yes	No	depends on Application	Opera[citation n
 MDI: Tabbed document interface	Yes	No	No	No	Yes	gedit, Firefox	
 MDI: Window splitting	Yes	No	No	No	No		
 MDI: IDE-style interface	Yes	Yes	Yes	No	Yes	Eclipse	
-Yes	Yes	Yes	Yes	depends on Window System	GIMP	
+Controlled Single Document Interface	Yes	Yes	Yes	Yes	depends on Window System	GIMP	

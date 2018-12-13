@@ -31,3 +31,4 @@ Transmission	Yes	No	Partial [Note 18][Note 29]	No	Yes	Yes	Yes[90][91]	No	No	Yes	
 Tribler	Yes	No	No	Yes	Yes	Yes	No	No	No	Partial	Yes (DHT)[92]	Yes	No	Fully distributed keyword search; integrated anti-spam measures[93]	
 Vuze (formerly Azureus)	Yes		Yes[83]	Yes	Yes	Yes	in paid version [94]	Yes	No	Plugin[Note 21]	Yes	Yes	Yes[95]	The only client to bridge between i2p and the clearnet.	
 Xunlei	Yes	No		Yes	Yes	Yes	Yes			Yes	No	Yes	No		
+BitTorrent client	Cache	Hash Web seeding	HTTP Web seeding	Broad-catching (RSS)	Prioritization	Selective downloads	Sequential downloading	SOCKS	Tracker exchange	Remote control via web	Search engine	Auto updates	Reviews and Comments	Notes	

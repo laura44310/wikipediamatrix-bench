@@ -12,4 +12,5 @@ Rhythmbox	Yes	Yes	Yes	Yes	Yes	No
 Senuti	Yes	Yes	No	No	No	?	
 Winamp native	No	No	No	No	No	No	
 XPlay	Yes	Yes, Read only	Yes, Read only	Yes, Read only	Yes, Read only	Yes, Read only	
-TouchCopy	
+TouchCopy	Yes	Yes	Yes	Yes	Yes	Yes	
+Manager	iPod touch / iPhone Firmware up to 1.1.4	iPod touch / iPhone FW 2.x	iPod touch / iPhone FW 3.0	iPod touch / iPhone FW 3.1	iPod touch / iPhone FW 4.0.2	iPod touch / iPhone FW 5.0.x	

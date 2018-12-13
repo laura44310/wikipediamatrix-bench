@@ -35,4 +35,4 @@ StuffIt X (also SITx)	.sitx	Aladdin/Allume Systems	2002	?	Yes	?	Optional	Yes, RC
 UltraCompressor II	.uc .uc0 .uc2 .ucn .ur2 .ue2	Nico de Vries	1992–1996	LZ77 and Huffman coding	Yes	Yes	Yes	Yes, triple DES	?	?	?	
 Windows Image	.wim	Microsoft	2006	Original	Yes	Yes	No	Partial5	Yes	100 ns	?	
 ZIP (also PKZIP)	.zip	Phil Katz	1989	DEFLATE	Yes	Yes	No	Yes, AES	Yes	1–2 s, depending on version	?	
-.zpaq	Matt Mahoney	2009	PAQ	Yes	Yes, SHA-1	No	Yes, AES-256	Yes	?	?	
+ZPAQ	.zpaq	Matt Mahoney	2009	PAQ	Yes	Yes, SHA-1	No	Yes, AES-256	Yes	?	?	

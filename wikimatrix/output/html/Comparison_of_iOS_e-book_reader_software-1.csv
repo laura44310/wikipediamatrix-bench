@@ -19,3 +19,4 @@ ShuBook[17]	Ambibma Ltd.	Yes	Yes	No	In library and in-book	Yes	Yes	Unlimited	Yes
 Stanza[18]	Lexcycle	Configurable	Yes	No	In library and in-book	Configurable	Yes	Unlimited	Yes	No	Yes	Yes	
 uBooks XL[19]	Nix Solutions Ltd	Mixed scrolling & pagination	Yes	Yes	Yes	Yes	Yes	Unlimited	Yes	Yes	Yes	Yes	
 iBouquiniste[20]	Sandr	Yes	Yes	No	In-book only	Yes	Yes	Unlimited	Yes	Yes	Yes	Yes	
+Product	Developer	Pagination	Rotation Lock	Auto-scroll	Progress indicator	Backward/forward	Table of Contents	Bookmarks	Resume	Cloud synchronisation	Go To	Full text search	

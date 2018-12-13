@@ -37,3 +37,4 @@ PanoramaMaker	Yes	?	Yes	?	Yes	No
 Panorama Stitcher	Yes	Yes	Yes*	No	Yes	Yes	(*) Only for rectilinear lenses	
 SharpStitch	Yes	Yes	No	Yes	Yes	Yes		
 Pano2VR / Pano2VR pro[25]	Yes	No	No	No	No	Yes		
+Name	Panorama leveling	Vignetting correction	Lens distortion correcting	White balance correction	Exposure correction	Viewpoint adjustment	Notes	

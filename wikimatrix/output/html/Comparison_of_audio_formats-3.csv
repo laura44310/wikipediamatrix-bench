@@ -37,3 +37,4 @@ OptimFROG	No	No	No	No	No	Yes (ffdshow)
 Truespeech	Yes	Yes	Yes (Perian)	Yes (GStreamer FFmpeg plug-in)	Yes	Yes (ffdshow)	
 True Audio (TTA)	Yes (ffdshow)	Yes (ffdshow)	Yes (Perian)	Yes (GStreamer FFmpeg plug-in)	Yes	Yes (ffdshow)	
 QCELP	Yes (ffdshow)	Yes (ffdshow)	Yes	Yes (GStreamer FFmpeg plug-in)	Yes	Yes (ffdshow)	
+Audio compression format	ACM	DirectShow	QuickTime	GStreamer	FFmpeg	Media Foundation	

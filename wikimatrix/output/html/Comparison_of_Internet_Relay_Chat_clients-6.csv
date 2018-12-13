@@ -32,3 +32,4 @@ Snak	Yes	?	Yes	Yes	?	Yes	?	No	No	?	?	?	?	?	?	?
 Visual IRC	?	Yes	?	Yes[Note 4]	?	?	?	Yes	No	?	?	?	Yes	?	?	Yes[Note 3]	
 WeeChat	Yes	?	Yes	?	?	?	?	No	No	?	?	?	?	?	Yes	?	
 XChat	Yes	?	Yes	Yes	No	No	?	Yes	Yes	?	?	?	Yes	?	Yes[Note 6]	?	
+Client	CHAT	Whiteboard	SEND	RESUME	TSEND	SEND T	XMIT	Passive DCC	Server	RDCC	REVERSE	RSEND	Reverse / Firewall DCC	File servers (FSERVs)	XDCC	VOICE	

@@ -18,4 +18,4 @@ G.728	low-delay CELP, Lossy	8 kHz	16 kbit/s	13 bit	0.625 ms	Yes	No	No	No
 G.729	CS-ACELP, Lossy	8 kHz	8 kbit/s	13 bit	15 ms	Yes	No	No	No	
 G.729D	CS-ACELP, Lossy	8 kHz	6.4 kbit/s	13 bit		Yes	No	No	No	
 G.729E	CS-ACELP, Lossy	8 kHz	11.8 kbit/s	13 bit	15 ms	Yes	No	No	No	
-CELP, TDBWE, TDAC, Lossy	8, 16 kHz	8 kbit/s, 12–32 kbit/s in 2 kbit/s steps	16 bit	48.9375 ms	Yes	Yes	No	No	
+G.729.1	CELP, TDBWE, TDAC, Lossy	8, 16 kHz	8 kbit/s, 12–32 kbit/s in 2 kbit/s steps	16 bit	48.9375 ms	Yes	Yes	No	No	

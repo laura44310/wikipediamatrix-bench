@@ -17,3 +17,4 @@ SChannel Vista/2008, 7/2008R2, 8/2012, 8.1/2012R2, 10	No	No	No	No	No	No	No	No	No
 Secure Transport	No	No	No	No	No	No	No	No	No	No	No	No	No	No	
 wolfSSL	Yes	Yes	Yes	Yes[169]	No	No	No	No	No	No	No	No	No	No	
 Erlang/OTP SSL application	Yes	Yes	Yes	No	No	No	No	No	No	No	No	No	No	No	
+Implementation	brainpoolP256r1 (26)	brainpoolP384r1 (27)	brainpoolP512r1 (28)	Curve25519	Curve448 Ed448-Goldilocks	M221 Curve2213	E222	Curve1174	E382	M383	Curve383187	Curve41417 Curve3617	M511 Curve511187	E521 [155]	

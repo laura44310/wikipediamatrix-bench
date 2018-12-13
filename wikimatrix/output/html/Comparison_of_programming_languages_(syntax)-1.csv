@@ -54,3 +54,4 @@ Visual Basic	newline terminated	colon separated
 Visual Basic .NET	newline terminated	colon separated	
 Wolfram Language	semicolon separated	
 Xojo	newline terminated	
+Language	Statement separator-terminator	Secondary separator[1]	

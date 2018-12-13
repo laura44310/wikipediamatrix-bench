@@ -17,3 +17,4 @@ rustls	No	No
 SChannel	No	Microsoft CryptoAPI	UUID, User-defined label	
 Secure Transport				
 wolfSSL	No	No		
+Implementation	TPM support	Hardware token support	Objects identified via	

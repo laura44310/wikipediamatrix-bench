@@ -20,4 +20,4 @@ Stani's Python Editor	Stani Michiels	0.8.4h	2008-02-14	Cross-platform	Python	wxP
 Thonny	Aivar Annamaa and contributors	3.0.8	2018-11-16	Windows, Linux, macOS	Python	Tkinter	MIT License	No	Yes	Yes	No	No	No	No	Yes	No	Unknown	Yes	No	No	No	
 Understand	SciTools	4.0	2015-04-01	Windows, Linux, macOS, Solaris, other Unix	Unknown	HTML	Proprietary	Unknown	Unknown	No	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
 Visual Studio Code	Microsoft	1.26.1	2018-08-16	Linux, Microsoft Windows, macOS	JavaScript	HTML	MIT License	Yes	Yes	Yes	No	Unknown	Yes	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Yes	Yes	
-Wingware	6.1.2	2018-11-08	Windows, Linux, macOS	Python	Qt5 with PyQt	Proprietary	Yes	Yes	Yes (also remote, multi-threaded, and multi-process debugging)	No	Yes	No	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	
+Wing	Wingware	6.1.2	2018-11-08	Windows, Linux, macOS	Python	Qt5 with PyQt	Proprietary	Yes	Yes	Yes (also remote, multi-threaded, and multi-process debugging)	No	Yes	No	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	

@@ -24,3 +24,4 @@ rc	Yes[46]	Yes[46]	No	No	Yes[46]	No	No	No	No	No	No	No	No	?	No	No	No	No
 BeanShell	Yes	Yes	No	No	No	No	No	No	No	No	No	No	No	No	No	No	No	No	
 VMS DCL	Minimum uniqueness scheme	No	No	No	Yes	Yes	No	No	No	No	No	No	No	Yes	No	No	No	No	
 fish	Yes	Yes	when defined or parsable in man pages[47]	Yes[47]	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes[48]	No	Yes	(via fish_config command)	No	No	No	
+Shell	Command name completion	Path completion	Command argument completion	Wildcard completion	Command history	Mandatory argument prompt	Automatic suggestions	Syntax highlighting	Directory history, stack or similar features	Implicit directory change	Autocorrection	Integrated environment	Snippets	Value prompt	Menu/options prompt	Progress indicator	Context sensitive help	Command builder	

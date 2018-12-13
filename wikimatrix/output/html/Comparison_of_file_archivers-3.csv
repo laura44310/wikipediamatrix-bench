@@ -29,3 +29,4 @@ WinZip	Yes	Yes	Yes	Yes	Yes	Yes	Yes[10]	Yes	Yes	Yes
 XAD	No[1]	Yes	Yes	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	
 Xarchiver	Yes	Yes	Yes	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	
 ZipGenius	Yes	Yes	Yes	Unknown	Yes	Unknown	Yes	No	Unknown	Unknown	
+	Data compression	Shell integration	Password protection	Multiple volumes	Self extraction	File repairing	Batch conversion	Unicode file / directory names[5]	Encryption	Filename Encryption	

@@ -27,4 +27,4 @@ DL	MS-DOS System Manager applications (HP LX series only)	.EXM	No (186/188 and h
 MP	Phar Lap DOS extenders	.EXP	Unknown (286 and higher only)	Yes	No	No	Unknown	Unknown	No	No	No	
 P2	Phar Lap 16-bit DOS extenders	.EXP	Unknown (286 and higher only)	Yes	No	No	Unknown	Unknown	No	No	No	
 P3	Phar Lap 32-bit DOS extenders	.EXP	Unknown (386 and higher only)	Yes	No	No	Unknown	Unknown	No	No	No	
-PC/GEOS, Geoworks Ensemble, NewDeal Office, Breadbox Ensemble	.GEO	Unknown (x86 only)	Unknown	Unknown	No	Unknown	Unknown	No	No	Unknown	
+GEOS	PC/GEOS, Geoworks Ensemble, NewDeal Office, Breadbox Ensemble	.GEO	Unknown (x86 only)	Unknown	Unknown	No	Unknown	Unknown	No	No	Unknown	

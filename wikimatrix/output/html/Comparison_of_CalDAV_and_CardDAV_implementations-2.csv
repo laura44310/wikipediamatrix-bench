@@ -8,7 +8,7 @@ DAViCal[27]	GNU GPL	PHP	Yes	Unknown	Unknown	Yes	Yes	Yes	Unknown	Yes	Yes	Yes	Yes	
 DavMail[28]	GNU GPL	Java	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
 Fennel[29]	GNU GPLv3	JavaScript	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
 Group-Office[30]	AGPL, proprietary	PHP	Yes	Yes	Yes	Unknown	Some	Unknown	Unknown	Yes	Yes	Yes	Yes	Yes	Unknown	Yes	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
-Horde Groupware	Yes	Yes	Yes	No	Some	No	No	Unknown	Yes	Yes	Yes	Yes	Yes	No	No	Yes	No	No	No	No	No	No	No	
+Horde Groupware	OSS	PHP	Yes	Yes	Yes	No	Some	No	No	Unknown	Yes	Yes	Yes	Yes	Yes	No	No	Yes	No	No	No	No	No	No	No	
 Nextcloud[31]	AGPL v3	PHP	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
 Open Xchange	GNU GPL, CC	Java, JavaScript	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
 ownCloud[32]	AGPL v3	PHP	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
@@ -17,4 +17,4 @@ SabreDAV[34]	BSD	PHP	Yes	Yes	Yes	Yes	Yes	Yes	Unknown	Yes	Yes	Yes	Yes	Yes	Yes	Yes
 Xandikos[35]	GNU GPL	Python	Yes	Yes	Yes	Some	Some	No	No	No	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	No	Unknown	Yes	No	No	Unknown	
 Zarafa	AGPL, proprietary	PHP	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Read only	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
 Zentyal[36]	GNU GPL	Perl	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
-GNU GPL	Perl	Yes	Yes	Yes	Yes	Yes	No	Unknown	No	Yes	Unknown	Yes	Yes	Yes	Yes	Unknown	Yes	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	
+Zimbra	GNU GPL	Perl	Yes	Yes	Yes	Yes	Yes	No	Unknown	No	Yes	Unknown	Yes	Yes	Yes	Yes	Unknown	Yes	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	

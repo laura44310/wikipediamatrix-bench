@@ -37,4 +37,4 @@ SageMath	No	Yes	Yes	No	Yes	Yes[69]	Many languages[70][71][72]	Yes (any language 
 SAS	No	No	DS2 and SCL	Yes	No	No	C, Java R (requires IML)	C, Java	R (requires IML)	No	
 C, Java	
 R (requires IML)	
-with extension	No	Yes	with extension	Yes	Yes	.NET Excel	Unknown	
+TK Solver	with extension	No	Yes	with extension	Yes	Yes	.NET Excel	Unknown	

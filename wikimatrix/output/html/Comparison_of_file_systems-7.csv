@@ -54,3 +54,4 @@ ISO 9660	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
 Rock Ridge	No	No	No	Yes	No	Yes	Yes	No	No	Yes	Yes	?	
 Joliet ("CDFS")	No	Yes	Yes	Yes	?	Yes	Yes	Yes	Yes	?	Yes	?	
 SquashFS	No	No	Partial (There are ports of unsquashfs and mksquashfs.)	Yes	No	Partial (There are ports of unsquashfs and mksquashfs.)	Partial (There are ports of unsquashfs and mksquashfs and fusefs-port.[83][84])	No	No	No	No	No	
+File system	DOS	Windows 9x	Windows NT	Linux	"classic" Mac OS	macOS	FreeBSD	OS/2	BeOS	Minix	Solaris	z/OS	

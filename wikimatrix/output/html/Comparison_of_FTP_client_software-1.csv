@@ -19,7 +19,7 @@ FireFTP	Yes	Yes	Yes	Yes	Yes	No	No
 FlashFXP	Yes	No	No	No	No	No	No	
 Fling FTP	Yes	No	No	No	No	No	No	
 ForkLift	No	Yes	No	No	No	No	No	
-Client	
+Client	Windows	Mac OS X	Linux	BSD	Unix	AmigaOS	ChromeOS	
 FTP Client	No	Yes	No	No	No	No	No	
 FTP Commander	Yes	No	No	No	No	No	No	
 FTP Explorer	Yes	No	No	No	No	No	No	
@@ -53,3 +53,4 @@ Xftp	Yes	No	No	No	No	No	No
 Yummy FTP	No	Yes	No	No	No	No	No	
 sFTP Client	Yes	Yes	Yes	Yes	Yes	No	Yes	
 Desktop.Tech	Yes	No	No	No	No	No	No	
+Client	Windows	Mac OS X	Linux	BSD	Unix	AmigaOS	ChromeOS	

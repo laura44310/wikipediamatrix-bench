@@ -8,4 +8,4 @@ mdb	1999	Solaris standard debugger (adb) successor	Any compiled to machine code	
 TotalView	1998	Source code and memory serial and parallel debugger	C++, C, CUDA, FORTRAN, MPI, OpenMP	Linux, AIX, Solaris, OS X, Cray, Blue Gene[1]	Yes (Memory debugger)	Yes	Proprietary	2016.07, Nov 2016	
 Valgrind	2007?	tool suite for debugging and profiling Linux programs[2]	C, C++, Java, Perl, Python, assembly code, Fortran, Ada, ...	Linux, Darwin (Mac OS X), Android	Yes	?	GPL	3.10.1, Nov 2014	
 Visual Studio Debugger	1995	Debugger in Microsoft Visual Studio	C++, JavaScript, .net languages	Windows 7, Windows Server 2008 R2, Windows 8, Windows Server 2012, Windows 8.1, Windows Server 2012 R2[4], Windows 10, Windows Server 2016	Yes,(Managed)	Yes	Proprietary	March 7, 2017	
-1980?	family of mainframe debuggers	COBOL, PL/1 & Assembler	z/OS	Yes (CICS)	Yes	Proprietary	z2.1, Oct 2014	
+XPEDITER	1980?	family of mainframe debuggers	COBOL, PL/1 & Assembler	z/OS	Yes (CICS)	Yes	Proprietary	z2.1, Oct 2014	

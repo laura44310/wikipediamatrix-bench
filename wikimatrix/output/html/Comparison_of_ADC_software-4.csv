@@ -10,3 +10,4 @@ Qhub	?	?	?	Tiger tree hash	No	TIGR
 Starlet ADC Hub	No	No	No	Tiger tree hash	No	TIGR		
 Starhub	?	?	?	Tiger tree hash	No	TIGR		
 RusHub	No	?	No	Tiger tree hash	No	TIGR		
+ADC hub	Encryption	IPv6	Plugin	Hash algorithms	Bloom filter	ADC support	Other	

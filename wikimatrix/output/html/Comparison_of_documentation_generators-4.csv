@@ -20,3 +20,4 @@ Sphinx	with Plugin	No	Yes	with Plugin	Yes	No	No	No	No	No
 Visual Expert	No	No	No	No	No	No	Yes [4]	Yes [5]	No	No	
 VSdocman	No	No	No	No	No	No	No	No	No	No	
 YARD	No	No	No	Yes	No	No	No	No	No	No	
+	PHP	Perl	Python	Ruby	JavaScript	ActionScript	PL/SQL	Transact-SQL	Tcl	Haskell	

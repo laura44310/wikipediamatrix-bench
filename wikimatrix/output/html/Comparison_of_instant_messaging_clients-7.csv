@@ -1,6 +1,6 @@
 Client name	Encrypted by default	Development status	Open source client[a]	Decentralized[b]	Servers	Contact verification[c]	Encryption ciphers	Forward secrecy[d]	Multiple encryption[e][f]	Encrypted groupchat[g]	Encrypted file transfer[g]	Public key and IP unrelated[h]	Proxy /Tor[i]	Transport[j]	Asynchronous encryp. communication[k]	Encrypted client data[l]	Screenshot protection[m]	Self-destructing messages[m]	
-Open source	
-Profile information[q]	
+Open source	Distributed	Federated	Data	Symmetric[e][n]	Asymmetric[o]	Asym. key size[p]	TCP	UDP	SCTP	
+Profile information[q]	Chat metadata[r]	Contact lists[s]	Cloud backup	McEliece	RSA	DSA	ECC	NTRU	El Gamal	Default	Max.	
 Briar	Yes	Active, public beta	Yes	Yes	N/A	N/A	N/A	N/A	N/A	N/A	No	Yes	Yes	?	?	?	Yes	?	?	ECC-256	?	Yes	Yes	Yes	No	Yes	Yes	Yes	?	?	No	Yes	Yes	No	
 ChatSecure	allows unencrypted	Active	Yes	Yes	Yes	Yes	Yes				No	Yes[100]	Yes[t]	?	?	?	?	?	?	?	?	Yes[t]	Optional	?	?	?	Optional	?	?	?	No	?	?	No	
 Conversations	allows unencrypted	Active	Yes	Yes	Yes	Yes	Yes	Stored; not client-side encrypted[101]		Stored[101]	No	Yes	Yes[t]	?	?	?	?	?	?	?	?	Depends	Optional	Optional	Yes	Optional	Optional	?	?	?	Optional	?	?	No	
@@ -36,5 +36,6 @@ Pidgin	No	Active	Yes[w]	Yes	Yes	Yes	Yes				No	Yes[100]	Yes[t][164]	?	Optional[ae
 Riot.im	No	Active, public beta	Yes	Yes	Yes	Yes	Yes	?	?	?	?	Device verification	Yes	?	?	?	Yes	?	?	ECC-256	?	Optional	?	Yes	Yes	Yes	?	Yes	?	?	Yes	?	No	No	
 Telegram (secret chats)	No	Active	Yes[w]	No	No	Yes	No	Stored; not client-side encrypted	Not stored[166]	Stored[166]	No	Yes[100]	Yes	?	Yes	?	No	No	No	RSA-2048[167]	N/A	Sort of[ah]	Yes	Includes groupchat, but it is not encrypted	Yes	No	No	Yes	No	?	No	Optional	Yes, warning	Yes	
 Xabber	No	Active	Yes	?	Yes	Yes	Yes			Stored	?	?	Yes[t]	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	
-Client name	
-Open source	
+Client name	Encrypted by default	Development status	Open source client[a]	Decentralized[b]	Servers	Contact verification[c]	Encryption ciphers	Forward secrecy[d]	Multiple encryption[e][f]	Encrypted groupchat[g]	Encrypted file transfer[g]	Public key and IP unrelated[h]	Proxy /Tor[i]	Transport[j]	Asynchronous encryp. communication[k]	Encrypted client data[l]	Screenshot protection[m]	Self-destructing messages[m]	
+Open source	Distributed	Federated	Data	Symmetric[e][n]	Asymmetric[o]	Asym. key size[p]	TCP	UDP	SCTP	
+Profile information[q]	Chat metadata[r]	Contact lists[s]	Cloud backup	McEliece	RSA	DSA	ECC	NTRU	El Gamal	Default	Max.	

@@ -70,3 +70,4 @@ Webconverger	Binary blobs	gitfs	sysvinit	dwm enforcing a Browser-only interface
 XBMC Live	Binary blobs	ext3	systemd	XBMC Media Center	
 Zentyal	Binary blobs	ext4	?	LXDE	
 Zenwalk	Binary blobs	ext4	sysvinit	Xfce	
+Distribution	Default Linux kernel	Default file system	Default init system	Install-time desktop environment or window manager selection	

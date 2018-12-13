@@ -1,5 +1,5 @@
 Maker	Model	Number	E-Books	Images	Audio/Video	
-.azw	
+.azw	.cbr	.cbz	.chm	.djvu	.doc	.docx	.epub	.fb2	.html	.lit	.mobi	.opf	.pdb	.pdf	.pdg	.rtf	.tcr	.tr3	.txt	.bmp	.gif	.jpg	.png	.tiff	.avi	.flv	.m4v	.mov	.mp3	.mpeg1/2/4	.wmv	
 Aluratek	Liber Touch	09	No	No	No	No	No	No	Unknown	Yes	Partial (non-DRM only)	No	No	No	No	No	Yes	No	Partial (non-DRM only)	No	No	Yes	Unknown	Yes	Yes	Yes	Unknown	Partial (non-DRM only)	Partial (non-DRM only)	Partial (non-DRM only)	Partial (non-DRM only)	Yes	Partial (non-DRM only)	No	
 Aluratek	Libre Air	11	No	No	No	No	No	No	Unknown	Yes	Partial (non-DRM only)	Yes	No	Partial (non-DRM only)	No	No	Yes	No	Partial (non-DRM only)	No	No	Yes	Unknown	Yes	Yes	Yes	Unknown	No	No	No	No	Yes	No	No	
 Aluratek	Libre Color eBook Reader	10	No	No	No	No	No	No	Unknown	Yes	Partial (non-DRM only)	Yes	No	No	No	No	Yes	No	Partial (non-DRM only)	No	No	Yes	Unknown	Yes	Yes	Yes	Unknown	Partial (non-DRM only)	Partial (non-DRM only)	Partial (non-DRM only)	Partial (non-DRM only)	Yes	Partial (non-DRM only)	Partial (non-DRM only)	
@@ -77,4 +77,5 @@ Velocity Micro	Cruz Reader	14+	No	Unknown	Unknown	Unknown	No	Unknown	Unknown	Yes
 Velocity Micro	Cruz Tablet T103	14+	No	Unknown	Unknown	Unknown	No	Unknown	Unknown	Yes	No	Yes	No	No	No	Yes	Yes	No	Unknown	Unknown	No	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Yes	Unknown	Unknown	
 Velocity Micro	Cruz Tablet T301	14+	Yes	Unknown	Unknown	Unknown	No	Unknown	Unknown	Yes	No	Yes	No	No	No	Yes	Yes	No	Unknown	Unknown	No	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Yes	Unknown	Unknown	
 Wolder Electronics	Boox-S	14	No	Unknown	Unknown	Unknown	No	Unknown	Unknown	Yes	Unknown	Yes	No	Partial (no DRM)	Unknown	No	Yes	Unknown	Unknown	Unknown	Unknown	Yes	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Yes	Unknown	Unknown	
-Maker	
+Maker	Model	Number	E-books	Images	Audio/Video	
+.azw	.cbr	.cbz	.chm	.djvu	.doc	.docx	.epub	.fb2	.html	.lit	.mobi	.opf	.pdb	.pdf	.pdg	.rtf	.tcr	.tr3	.txt	.bmp	.gif	.jpg	.png	.tiff	.avi	.flv	.m4v	.mov	.mp3	.mpeg1/2/4	.wmv	

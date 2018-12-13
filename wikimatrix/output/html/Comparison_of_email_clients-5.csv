@@ -43,3 +43,4 @@ Windows Live Mail	?	?	Yes	Yes	Yes	Yes	No	?	?	?
 Windows Mail	?	?	?	?	?	?	?	?	?	?	
 YAM	No	No	No	No	No	No	No	?	?	?	
 Zimbra	?	?	Yes	Yes	Yes	Yes	Yes	?	?	?	
+Client	IMSP	ACAP	RSS 0.91 Feeds	RSS 1.0 Feeds	RSS 2.0 Feeds	ATOM Feeds	iCalendar	MAPI/RPC	CalDAV	CardDAV	

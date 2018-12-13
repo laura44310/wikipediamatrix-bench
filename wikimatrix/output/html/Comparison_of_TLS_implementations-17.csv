@@ -17,3 +17,4 @@ SChannel	No	No	Yes	No	No
 Secure Transport	No	No	No	Yes	No	
 wolfSSL	Yes	Yes	Partial	No	No	
 Erlang/OTP SSL application	No	No	No	No	Yes	
+Implementation	/dev/crypto	af_alg	Windows CSP	CommonCrypto	OpenSSL engine	

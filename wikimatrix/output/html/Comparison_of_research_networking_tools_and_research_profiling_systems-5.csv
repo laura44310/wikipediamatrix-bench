@@ -44,4 +44,4 @@ ResearcherID	Unknown	Unknown	No (although authors can build their publication li
 SciENcv	No thesaurus used	Unknown	No	
 Symplectic Elements	MeSH, Fields of Research, ScienceMetrix.	Supports mapping of publication, person and grants data to the VIVO ontology via their open source VIVO Harvester Extension, as well as Harvard Catalyst's Profiles RNS.	Yes	
 VIVO	VIVO uses several thesauri that are available through Semantic Web, including MeSH	The VIVO Ontology was developed and supported by NIH-funded efforts and continues to be developed and built by its open source community at GitHub and in collaboration with the eagle-i project.	Yes	
-Unknown	Unknown	Unknown	
+Yaffle	Unknown	Unknown	Unknown	

@@ -45,3 +45,4 @@ Windows Live Mail	Yes	No	No	Yes	Yes	Yes	Yes	?	No	Yes	No
 Windows Mail	Yes	No	No	Yes	Yes	?	?	?	No	Yes	No	
 YAM	Yes	Yes	Yes	No	Yes	No	No	No	?	?	?	
 Zimbra	Yes	No	No	Yes	Yes	No	Yes	Yes	?	?	?	
+Client	POP3 fetch all messages	POP3 selected by filter	POP3 selected by user	IMAP4	SMTP	NNTP	LDAP v2	LDAP v3	EWS	IPv6	MAPI	

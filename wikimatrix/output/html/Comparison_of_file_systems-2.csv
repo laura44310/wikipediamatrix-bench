@@ -71,3 +71,4 @@ UniFS	No limit defined (depends on client)	?	No limit defined (depends on client
 ISO 9660:1999	?	?	?	?	?	?	
 High Sierra Format	?	?	?	?	?	?	
 SquashFS	?	?	No limit defined	16 EiB	16 EiB	?	
+File system	Maximum filename length	Allowable characters in directory entries[c]	Maximum pathname length	Maximum file size	Maximum volume size[d]	Max number of files	

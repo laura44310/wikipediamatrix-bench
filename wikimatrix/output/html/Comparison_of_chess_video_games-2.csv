@@ -26,4 +26,4 @@ Chessbase Rybka	Rybka	Yes	Yes	Friend Mode, Handicap and Fun, uci_elo[21]	Yes	Che
 Shredder UCI GUI	Shredder	Yes	Yes	uci_elo[22]	No	Chess960	No	
 SMIRF						Chess960, Capablanca, Capablanca Random, Embassy, Janus		
 Wii Chess	Loop Express	No	No					
-Crafty	Yes	via UCI2WB	No	No	Knightmate, Capablanca, Gothic, Shatranj, Courier, Cylinder, Berolina	Yes	
+Winboard/xBoard	Crafty	Yes	via UCI2WB	No	No	Knightmate, Capablanca, Gothic, Shatranj, Courier, Cylinder, Berolina	Yes	

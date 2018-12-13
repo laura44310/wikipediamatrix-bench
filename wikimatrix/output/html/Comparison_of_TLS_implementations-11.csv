@@ -17,3 +17,4 @@ SChannel Vista/2008, 7/2008R2, 8/2012, 8.1/2012R2, 10	No	No	No	No	No	No	No	No	Ye
 Secure Transport	No	No	No	No	Yes	No	No	No	Yes	No	Yes	No	No	
 wolfSSL	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	No	
 Erlang/OTP SSL application	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	no	no	
+Implementation	secp160k1 (15)[84]	secp160r1 (16)[84]	secp160r2 (17)[84]	secp192k1 (18)[84]	secp192r1 prime192v1 NIST P-192 (19)[84]	secp224k1 (20)[84]	secp224r1 NIST P-244 (21)[84]	secp256k1 (22)[84]	secp256r1 prime256v1 NIST P-256 (23)[84]	secp384r1 NIST P-384 (24)[84]	secp521r1 NIST P-521 (25)[84]	arbitrary prime curves (0xFF01)[84][151]	arbitrary char2 curves (0xFF02)[84][151]	

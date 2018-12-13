@@ -1,5 +1,5 @@
 Audio player	Lossy compression	Lossless compression	
-MP3	
+MP3	WMA	RealAudio	Vorbis	Musepack	AAC	Dolby AC-3	VQF	Opus	APE	FLAC	ALAC	SHN	WV	WMA L	
 AIMP	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes[21]	Yes	Yes	Yes	Yes	No	Yes	Yes	
 Amarok[22][23][24]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	
 Audacious	Yes	Yes	No	Yes	Yes	Yes	Yes	?	Yes[25]	Yes	Yes	Yes	No	Yes	?	
@@ -29,3 +29,4 @@ Winamp	Yes	Yes	Yes[19]	Yes	Yes[19]	Yes	?	?	?	?	Yes	?	?	Yes[19]	?
 XMMS	Yes	Partial[28]	Partial[28]	Partial[28]	Yes	Yes	No	Yes[19]	?	Partial[28]	Yes	No	Partial[28]	Yes	?	
 XMPlay	Yes	Yes[19]	Yes[19]	Yes	Yes[19]	Yes[19]	Yes[19]	?	Yes[19]	Yes[19]	Yes[19]	Yes[19]	Yes[19]	Yes[19]	?	
 Zinf	Yes	No	No	Yes	No	No	No	?	?	No	No	No	No	No	?	
+Audio player	MP3	WMA	RealAudio	Vorbis	Musepack	AAC	Dolby AC-3	VQF	Opus	APE	FLAC	ALAC	SHN	WV	WMA L	

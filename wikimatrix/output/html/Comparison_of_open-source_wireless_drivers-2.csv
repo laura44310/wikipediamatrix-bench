@@ -1,5 +1,5 @@
 Driver	802.11	Bus interface	Wireless Security	Monitor mode	Master (AP) mode	Ad-Hoc mode	
-a	
+a	b	g	n	ac	WEP	WPA	WPA2	
 acx1xx	No	Yes	Yes	No	No	PCI, Mini PCI, PC card, USB	Yes	No	No	Yes	Yes	?	
 adm8211	?	?	?	?	?	PCI	?	?	?	?	No	?	
 carl9170	Yes	Yes	Yes	Yes	No	USB	Yes	Yes	Yes	Yes	Yes	Yes	

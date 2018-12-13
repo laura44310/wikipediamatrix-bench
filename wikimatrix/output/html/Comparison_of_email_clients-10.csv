@@ -1,5 +1,5 @@
 Client	Message file format	Encrypted database	Virtual folders	Scheduled backup	New mail notification	Customizable interface	Customizable keybindings	Fragmented messages [Note 1]	Database search with regular expressions support	Indexed search	Search folders [Note 2]	IMAP	
-ticker	
+ticker	tray icon	tooltip	sound	Search	IDLE	
 Alpine	mbox, mbx, MIX, maildir (with patches), MMDF, tenex, mtx, MH, mx, news, phile	?	Yes	Partial	?	?	?	Yes	Yes	No	?	No	Yes	Yes	Yes	No	
 Becky! Internet Mail	mbox	?	?	No	Yes	?	Yes	Yes	?	?	?	Yes	?	Yes	Yes	Yes	
 Citadel	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	
@@ -45,4 +45,5 @@ Windows Live Mail	File System (.eml)	No	No	No	No	Yes	?	Yes	Yes	No	Yes	No	Yes	Yes
 Windows Mail	?	?	?	?	?	?	?	Yes	?	?	?	?	?	?	?	Yes	
 YAM	mbox, maildir, oe-dbx	No	No	No	?	?	Yes	Yes	Yes	No	No	No	No	No	No	No	
 Zimbra	File system	No	Yes	Yes	?	?	?	?	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	
-Client	
+Client	Message file format	Encrypted database	Virtual folders	Scheduled backup	New mail notification	Customizable interface	Customizable keybindings	Fragmented messages [Note 1]	Database search with regular expressions support	Indexed search	Search folders [Note 2]	IMAP	
+ticker	tray icon	tooltip	sound	Search	IDLE	

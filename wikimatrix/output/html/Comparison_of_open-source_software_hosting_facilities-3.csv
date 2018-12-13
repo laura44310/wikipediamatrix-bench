@@ -17,3 +17,4 @@ OW2 Consortium	Yes	No	No	Yes	No	No	No	Unknown	Unknown
 Phabricator	No	Yes	Yes	Yes	No	No	No	No	No	
 SEUL.org	Yes	No	No	Yes	No	No	No	Unknown	Unknown	
 SourceForge	Dropped[42]	Yes	Yes	Yes	Dropped[43]	No	No	Unknown	Yes	
+Name	CVS	Git	Hg	SVN	BZR	TFVC	Arch	Perforce	Fossil	

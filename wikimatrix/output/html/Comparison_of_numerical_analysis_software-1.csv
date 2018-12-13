@@ -35,4 +35,4 @@ SPSS	Normal H. Nie, Dale H. Bent, and C. Hadlai Hull		1968	23.0	3 March 2015	Not
 Sysquake	Calerga		1998	5.0	2013	free / $2500 (Pro, commercial) / $1000 (Pro, academic)	Proprietary	interactive graphics	
 TK Solver	Universal Technical Systems, Inc.	late 1970s	1982	5.0.141	2011	$399 commercial / $49 (student)	Proprietary	Numerical computation and rule-based application development	
 VisSim	Visual Solutions		1989	10.1	January 2011	$495-$2800 (commercial) free view only version $50-$250/free v3.0 (academic)	Proprietary	Visual Language for simulation and Model Based Design. Used in business, science and engineering. Performs complex scalar or matrix based ODE solving with parametric optimization. Has 2D and 3D plotting, 3D animation, and state transition built in.	
-n/a	n/a	n/a	9	January 2015	Free	GPL	Programmable, callable 2D+3D plotting. Language syntax similar to C. Interfacing to other software packages via C calls.	
+Yorick	n/a	n/a	n/a	9	January 2015	Free	GPL	Programmable, callable 2D+3D plotting. Language syntax similar to C. Interfacing to other software packages via C calls.	

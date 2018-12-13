@@ -46,3 +46,4 @@ Windows Media Connect	Prop.	Free [32]	No	No	Yes	Yes	Yes	Yes	Yes [33]	No	Yes	Yes	
 Wild Media Server	Prop.	Trialware	Yes[34]	Yes[35]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Delphi	Yes	Yes	
 xupnpd	GPLv2	Free	No	Yes	No	Yes	Unknown	Yes	No	Yes	Yes	Unknown	C++	Unknown	Unknown	
 Yazsoft Playback	Prop.	Non-free	Yes	No	No	Yes	Yes	Yes	No	No	Unknown	Unknown	Unknown	Unknown	No	
+Name	License	Cost	OS X	Unix-like	Windows	Audio	Images	Video	Transcoding	Web Interface	DLNA support	Multilingual[1]	Implementation	Subtitles[2]	Still Supported	

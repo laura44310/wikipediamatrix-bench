@@ -17,3 +17,4 @@ RhodeCode	Yes	No	Yes	No	No	Unknown	No	No	Yes	Yes	Yes	No	Yes	Yes	Yes
 SourceForge	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes[j]	Yes	No	Yes	Yes	Yes	
 Team Foundation Server	Yes	Yes	No	Yes	No	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	
 Visual Studio Team Services	Yes	Yes	Yes	Yes	No	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	
+Name	Code review	Bug tracking	Web hosting	Wiki	Translation system	Shell server	Mailing List	Forum	Personal branch	Private branch	Announce	Build system	Team	Release Binaries	Self-hosting	

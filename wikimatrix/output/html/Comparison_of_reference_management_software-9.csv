@@ -1,5 +1,5 @@
 Software	Passworded	Networking	
-User-specific permissions[43]	
+User-specific permissions[43]	Simultaneous write access	
 Aigaion	Yes	Yes	Yes	
 Bebop	No	N/A	N/A	
 BibBase	N/A	N/A	N/A	
@@ -29,4 +29,4 @@ RefWorks	Yes	?	Yes
 Sente	Yes	Yes	Yes	
 Wikindx	Yes	Yes	Yes	
 WizFolio	Yes	Yes	Yes	
-Yes[48]	Yes	Yes	
+Zotero	Yes[48]	Yes	Yes	

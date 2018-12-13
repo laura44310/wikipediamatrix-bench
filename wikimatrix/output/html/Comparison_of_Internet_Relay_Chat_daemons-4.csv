@@ -24,4 +24,4 @@ snircd	# &	No	Yes	No	No	Yes	No	Yes	No	No
 solid-ircd	#	Yes	No	No	No	No	No	Partial	No	No	
 Synchronet IRCd	# &	No	No	No	No	No	No	No	No	No	
 UnrealIRCd	#	Yes	Yes	Yes	No	Yes	Third party module (netadmins)[72]	Yes, vhost block in conf	iso8859-1/2/7/8-I/9/16, windows-1250/1251, Multibyte	MySQL & PostgreSQL: Third party modules [73]	
-#	Yes	No	No	No	No	No	No	No	SQLite in services module	
+WeIRCd	#	Yes	No	No	No	No	No	No	No	SQLite in services module	

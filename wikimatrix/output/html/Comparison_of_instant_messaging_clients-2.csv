@@ -1,5 +1,5 @@
 Client	Desktop	Mobile	Other	
-Windows	
+Windows	macOS	Unix-like	Haiku	Amiga	Windows Phone	Android	BlackBerry OS	iOS	Symbian	MeeGo	Java ME	WebOS	Web	VGCs	
 Adium	No	Yes	No	No	No	No	No	No	No	No	No	No	No	No	No	
 BBM	No	No	No	No	No	Yes	Yes	Yes	Yes	No	No	No	No	No	No	
 AIM	Yes	Yes	Dropped	No	No	No	Yes	Yes	Yes	No	No	No	Yes	No	No	
@@ -75,4 +75,5 @@ Xfire	Yes	No	No	No	No	No	No	No	No	No	No	No	No	No	No
 Yahoo! Messenger	Yes	Yes	No	No	No	No	Yes	Yes	Yes	Yes	No	No	No	Yes	No	
 Yuilop	No	No	No	No	No	Yes	Yes	Yes	Yes	No	No	No	No	No	No	
 Zephyr	Yes	Yes	Yes	No	No	No	No	No	No	No	No	No	No	No	No	
-Client	
+Client	Windows	OS X	Unix-like	Haiku	Amiga	Windows Phone	Android	BlackBerry OS	iOS	Symbian	MeeGo	Java ME	WebOS	Web	VGCs	
+Desktop	Mobile	Other	

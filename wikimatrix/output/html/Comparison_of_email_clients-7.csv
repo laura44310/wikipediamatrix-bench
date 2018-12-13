@@ -1,5 +1,5 @@
 Client	Secure POP3	Secure IMAP4	Secure SMTP	Secure NNTP	Secure LDAP	SNI	OCSP [Note 1]	CRL [Note 2]	
-SSL	
+SSL	TLS [Note 3]	SSL	TLS [Note 3]	SSL	TLS [Note 4]	SSL	TLS	SSL	TLS	
 Alpine	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	?	Yes	?	?	?	
 Becky! Internet Mail	Yes	Yes	Yes	Yes	Yes	Yes	?	?	?	?	?	?	?	
 Citadel	?	?	?	?	?	?	?	?	?	?	?	?	?	
@@ -45,4 +45,5 @@ Windows Live Mail	Yes	No	Yes	No	Yes	No	?	?	?	?	?	?	?
 Windows Mail	Yes	No	Yes	?	Yes	?	?	?	?	?	?	?	?	
 YAM	Yes	Yes	No	No	?	?	?	?	?	?	?	?	?	
 Zimbra	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	?	?	?	
-Client	
+Client	Secure POP3	Secure IMAP4	Secure SMTP	Secure NNTP	Secure LDAP	SNI	OCSP [Note 1]	CRL [Note 2]	
+SSL	TLS [Note 3]	SSL	TLS [Note 3]	SSL	TLS [Note 4]	SSL	TLS	SSL	TLS	

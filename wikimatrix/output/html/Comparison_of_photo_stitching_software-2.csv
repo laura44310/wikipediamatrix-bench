@@ -35,3 +35,4 @@ PanoramaMaker	No	No	No	No	No
 Panorama Stitcher	Yes	No	No	No	No		
 SharpStitch	Yes	No	No	No	No		
 Pano2VR / Pano2VR pro	Yes	No	Yes	No	No		
+Name	HDR input (EXR, HDR, Logluv, etc.)	Merging to HDR from LDR images	HDR output (EXR, HDR, Logluv, etc.)	Tonemapping	Exposure fusion	Notes	

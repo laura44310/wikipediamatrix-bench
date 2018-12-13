@@ -1,5 +1,5 @@
 Platform	Features	Toolkit	Prolog Mechanics	
-Name	
+Name	OS	Licence	Native Graphics	Compiled Code	Unicode	Object Oriented	Native OS Control	Stand Alone Executable	C Interface[3]	Java Interface[3]	Interactive Interpreter	Debugger	Code Profiler	Syntax	
 BProlog	Unix, Windows, Mac OS X	Free for non-commercial uses		Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	ISO-Prolog, plus event-handling, CLP(FD), and tabling	
 JIProlog	JVM, Android	Shareware/Commercial and AGPL	Yes		Yes		Yes via Java	Yes	Yes via Java	Yes	Yes	Yes		ISO-Prolog	
 Ciao	Unix, Windows, Mac OS X	GPL, LGPL		Yes		Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	ISO-Prolog, plus extensions	

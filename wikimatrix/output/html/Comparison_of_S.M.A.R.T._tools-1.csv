@@ -8,3 +8,4 @@ smartmontools[5]	Windows, Unix-like (Linux, macOS, BSD, etc.)	GNU GPL v2	CLI and
 Speccy	Windows	Freeware	GUI	IDE(PATA), SATA	No[9]	?	Yes	No	No		
 SpeedFan	Windows	Freeware	GUI	(S)ATA, SCSI, SAT; Areca, 3ware	Yes	Some RAID controllers	Yes	Yes	Window, sound, e-mail, running a command; at parameter changes, threshold, temperature	Estimate health and performance by percentage, and offers online drive analysis (and compares from other users).	
 SpinRite	DOS, FreeDOS	Commercial proprietary	GUI	?	?	?	Yes[10]	Yes	No		
+Name	Operating system	License, price	User interface	Fixed drives	USB, eSATA and removable drives	RAID support[a]	Shows S.M.A.R.T. attributes	Hard drive self-testing	Notification	Notes	

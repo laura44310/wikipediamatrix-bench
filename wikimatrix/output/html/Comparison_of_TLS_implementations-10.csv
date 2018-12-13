@@ -17,3 +17,4 @@ SChannel Vista/2008, 7/2008R2, 8/2012, 8.1/2012R2, 10	No	No	No	No	No	No	No	No	No
 Secure Transport	No	No	No	No	No	No	No	No	No	No	No	No	No	No	
 wolfSSL	No	No	No	No	No	No	No	No	No	No	No	No	No	No	
 Erlang/OTP SSL application	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	
+Implementation	sect163k1 NIST K-163 (1)[84]	sect163r1 (2)[84]	sect163r2 NIST B-163 (3)[84]	sect193r1 (4)[84]	sect193r2 (5)[84]	sect233k1 NIST K-233 (6)[84]	sect233r1 NIST B-233 (7)[84]	sect239k1 (8)[84]	sect283k1 NIST K-283 (9)[84]	sect283r1 NIST B-283 (10)[84]	sect409k1 NIST K-409 (11)[84]	sect409r1 NIST B-409 (12)[84]	sect571k1 NIST K-571 (13)[84]	sect571r1 NIST B-571 (14)[84]	

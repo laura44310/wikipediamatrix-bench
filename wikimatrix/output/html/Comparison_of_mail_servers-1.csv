@@ -32,3 +32,4 @@ WinGate	Yes	Yes	Yes	Yes	Yes	No	NT Domain, Active Directory, CRAM-MD5, SASL PLAIN
 Zarafa	Yes	No	No	Yes	Yes	Yes	PLAIN, LOGIN using internal backends: Internal, Active Directory, any LDAP-compatible source, Unix	
 Zentyal	Yes	Yes	Yes	Yes	Yes	Yes	Active Directory using Dovecot SASL mechanisms	
 Zimbra	Yes	No	Yes	Yes	Yes	Yes	Internal, LDAP, Open LDAP, Active Directory	
+Mail server	SMTP AUTH	POP before SMTP	APOP	Filesystem	Database	LDAP	Other	

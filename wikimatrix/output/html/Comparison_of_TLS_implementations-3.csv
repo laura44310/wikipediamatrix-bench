@@ -18,3 +18,4 @@ S2n
 SChannel	Yes[69]	
 Secure Transport	No	
 wolfSSL	Yes	
+Implementation	TLS 1.2 Suite B	

@@ -1,5 +1,5 @@
 Software	Platform	License	Latest version	Last release year	Size (MB)[a]	Description	Number[b]	Supported metadata standards[c]	Supported file formats[d]	
-EXIF	
+EXIF	GPS	IPTC	XMP	Maker	Other	JPEG	TIFF	Raw	Other	
 A Photo Manager[3][4]	Android	GPLv3	0.6.3.180211 (35)	2018	1.3	Show/Edit GPS infos of local photos through a map.	?	REW	REW	R	REW	R	R	Yes	?	?	?	
 Auto ISO Tool[5]	Windows	Freeware	?	2007	0.2	GUI for ExifTool to patch Canon ISO information.	2	W	-	R	-	R	-	Yes	-	-	-	
 AvPicFaceXmpTagger[6]	Linux, Windows	Freeware	1.7	2010	3.7	Write Picasa face recognition information as XMP to your images.	?	-	-	-	RW	-	-	Yes	-	-	-	

@@ -58,3 +58,4 @@ Joliet ("CDFS")	No	No	Yes	No	No	No	No	No	No	No
 ISO 9660:1999	No	No	Yes	No	No	No	No	No	No	No	
 High Sierra	No	No	Yes	No	No	No	No	No	No	No	
 SquashFS	Yes	Yes	Yes	Yes	Yes	No	Yes	No	Yes	No	
+File system	Stores file owner	POSIX file permissions	Creation timestamps	Last access/read timestamps	Last metadata change timestamps	Last archive timestamps	Access control lists	Security/ MAC labels	Extended attributes/ Alternate data streams/ forks	Checksum/ ECC	

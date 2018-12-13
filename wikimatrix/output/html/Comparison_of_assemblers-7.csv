@@ -6,4 +6,4 @@ NASM	Windows, Linux, macOS, DOS, OS/2	Yes	BSD	Yes
 Open Watcom Assembler	Windows, DOS, Linux, FreeBSD, OS/2	Yes	Sybase Open Watcom Public	Yes	
 POASM	Windows, Windows Mobile	No	Freeware	Yes	
 TCCASM	Unix-like, Windows	Yes	GNU LGPL	Yes	
-Windows, DOS, Unix-like	Yes	BSD	Yes	
+Yasm	Windows, DOS, Unix-like	Yes	BSD	Yes	

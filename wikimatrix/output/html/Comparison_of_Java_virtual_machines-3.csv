@@ -13,4 +13,4 @@ JC virtual machine	Yes	No	No	No	No	No	No	No	No	No	No
 Jikes RVM	Yes[45]	No[45]	No[45]	No[45]	No[45]	Yes[45]	No[45]	No[45]	No[45]	No[45]	No[45]	
 Kaffe	Yes[13]	Yes[13]	Yes[13]	Yes[13]	Yes[13]	Yes[13]	Yes[13]	Yes[13]	Yes[13]	No[13]	Yes[13]	
 Mysaifu JVM	No[46]	No[46]	No[46]	No[46]	No[46]	No[46]	Yes[46]	No[46]	No[46]	No[46]	No[46]	
-Yes[47]	Yes	Yes[47]	Yes	Yes[47]	Yes[47]	Yes[47]	Yes[47]	Yes[47]	No[47]	Yes[47]	
+SableVM	Yes[47]	Yes	Yes[47]	Yes	Yes[47]	Yes[47]	Yes[47]	Yes[47]	Yes[47]	No[47]	Yes[47]	

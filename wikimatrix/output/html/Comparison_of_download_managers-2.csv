@@ -19,3 +19,4 @@ KGet	Yes	Yes	Yes	Yes	Yes	No	Yes	?	No	No	Yes	No
 MiniDM	Yes	Yes	Yes	No	No	No	No	No	No	No	No	No	
 MLDonkey	Yes	?	Yes	?	No	No	No	?	No	No	Yes	Yes	
 Shareaza	Yes	Yes	Yes	Yes	No	No	No	Yes	No	No	Yes	Yes	
+Manager	HTTP	HTTPS	FTP	SFTP	MMS	RTSP	Metalink	Magnet link	Podcast	RTMP	BitTorrent	eDonkey	

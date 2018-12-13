@@ -22,4 +22,4 @@ PowerShell	Yes	Yes (Try-Catch-Finally)	Yes (-replace operator)	Yes	Yes	[Math] cl
 rc	Yes	Yes	No	?	?	?	Yes	?	No	Yes	No	No	
 BeanShell	Yes	Yes	?	Yes	?	?	Yes	Yes	No	Yes	Yes	Yes	
 VMS DCL	Yes	Yes	No	Yes	No	yes, for compiled programs	Yes	No	No	No	No	No	
-Yes	Yes (via trap)	No	Optional fish math	Optional fish math	Optional fish math	Yes	No	No	Yes	Yes (random)	No	
+fish	Yes	Yes (via trap)	No	Optional fish math	Optional fish math	Optional fish math	Yes	No	No	Yes	Yes (random)	No	

@@ -1,11 +1,9 @@
 package fr.univrennes1.istic.wikipediamatrix;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class Page {
@@ -14,7 +12,7 @@ public class Page {
 		
 		Elements newsHeadlines = doc.getElementsByClass("wikitable sortable"); //ne prend que les tableaux sortables
 		if (newsHeadlines.size()==0) {
-			System.out.println("! Sur la page "+nom+ "il n'y a pas de tableaux sortables");
+			System.out.println("! Sur la page "+nom+ " il n'y a pas de tableaux sortables");
 		}
 		//boucle for pour gérer si plusieurs tableaux dans une page 
 		for (int i=0; i<newsHeadlines.size();i++) {

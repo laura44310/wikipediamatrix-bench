@@ -22,4 +22,4 @@ ShadowIRCd	Yes	No / No	Yes	No / No	No / No	Yes	Yes	Yes	Yes
 solid-ircd	Yes	Yes / No	Yes	No / No	No / No	No	No	No	Unknown	
 Synchronet IRCd	Yes	Yes / No	Yes	No / No	No / No	No / No	No	No	Unknown	
 UnrealIRCd	Yes	Yes	Yes	Yes	Yes / third party module[74]	No	Yes	Yes	Yes	
-Partial	No / No	No	No / No	No / No	No	No	No	Yes	
+WeIRCd	Partial	No / No	No	No / No	No / No	No	No	No	Yes	

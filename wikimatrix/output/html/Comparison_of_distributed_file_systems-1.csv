@@ -15,4 +15,4 @@ scality	C	Proprietary	fuse, NFS file system, rest, AWS S3
 Tahoe-LAFS	Python	GNU GPL 2+ and other[5]	HTTP (browser or CLI), SFTP, FTP, FUSE via SSHFS, pyfilesystem	
 HDFS	Java	Apache License 2.0	Java and C client, HTTP	
 XtreemFS	Java, C++	BSD License	libxtreemfs (Java, C++), FUSE	
-C, C++	MIT	libori, FUSE	
+Ori[6]	C, C++	MIT	libori, FUSE	

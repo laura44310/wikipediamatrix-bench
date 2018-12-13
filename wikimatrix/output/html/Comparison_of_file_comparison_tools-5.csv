@@ -24,3 +24,4 @@ vimdiff	No	No	No	No	Yes
 WinDiff	No	No	when different	Yes	Optional	
 WinMerge	No	No	Optional		Optional	
 UCC	No	No	Yes	No		
+Name	Filename casing	CRC	Filedate	Daylight saving	Character casing	

@@ -14,7 +14,7 @@ FL Studio	No	No	Yes	Yes	Yes	Yes	Yes	Yes	Import	Yes	XI, REX, REX2
 GarageBand	No	No	Yes[4]	Unknown	Yes	Yes	Unknown	Unknown	No	No		
 Goldwave	Unknown	Unknown	Unknown	Yes	Yes	Unknown	Yes	Unknown	Yes	Yes	Windows Media Audio, AU, Monkey's Audio, VOX, mat, snd, voc	
 Harrison Mixbus	No	No	Yes	Yes	Unknown	Unknown	Yes	Unknown	No	Yes	AIFC, NeXT AU/SND, Headerless RAW, PAF, IFF/SVX, Sphere Nist WAV, IRCAM SF, VOC, W64, MAT4, MAT5, PVF, Fasttracker 2 XI, HMM Tool Kit HTK, CAF, SD2	
-	
+	OMF	AAF	MIDI	WAV	MP3	AAC	Ogg	REX2	AIFF	FLAC	Others	
 Jokosher	No	No	No	Yes	Yes	Unknown	Yes	Unknown	Unknown	Unknown		
 Kristal	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
 Live	No	No	Yes	Yes	Import	Yes	Yes	Yes	Yes	Yes	SDII (Mac OS X Only)	
@@ -33,7 +33,7 @@ Qtractor	No	No	Yes	Yes	Yes	No	Yes	No	Yes	Yes	CAF, HTK, IFF/8SVX, MAT4/5, PAF, PV
 REAPER	Partial	No	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	APE, BWF, MOOG, W64, WavPack	
 Reason	No	No	Yes	Yes	Import	Import	No	Yes	Yes	No	SF2, ReFill	
 Record	No	No	Yes	Yes	No	No	No	Yes	Yes	No	SF2, ReFill	
-	
+	OMF	AAF	MIDI	WAV	MP3	AAC	Ogg	REX2	AIFF	FLAC	Others	
 Renoise	No	No	Yes	Yes	Yes	No	Yes	No	Yes	Yes	MP4, MP4A, CAF, SFZ	
 RiffWorks	No	No	No	Export	No	No	Export	Yes	No	No		
 Rosegarden	No	No	Yes[6]	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Csound, Mup, MuxicXML, h2song[7]	
@@ -52,3 +52,4 @@ Traverso	No	No	Unknown	Yes	Yes	Unknown	Yes	Unknown	No	Yes	WavPack
 WaveLab	No	No	Controllers	Yes	Yes	Yes	Yes	No	Yes	Yes	AU, MP2, RAW	
 WavePad	No	No	Import	Yes	Yes	Yes	Yes	No	Yes	Yes	import midi, Sun AU, MPEG4 audio, GSM, RAW, Dialogic VOX, AMR Narrowband, Musepack, Monkey's Audio Codec, others	
 WaveSurfer	No	No	No	Yes	Import	No	With plugin	No	Yes	No	Import: AU, CSL, SD Export: AU	
+	OMF	AAF	MIDI	WAV	MP3	AAC	Ogg	REX2	AIFF	FLAC	Others	

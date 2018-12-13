@@ -24,3 +24,4 @@ vimdiff	Yes	Yes			Yes			Yes
 WinDiff	No	No			No			No		
 WinMerge	Yes	No		Mercurial,[37] Subversion,[38] Visual Source Safe, Rational ClearCase[39]	Yes			Yes		
 UCC	Yes	No						Yes		
+Name	ZIP support	FTP support	SFTP support	Version Control browsing	Patch creation	Patch application	Patch preview	Unicode support	XML-aware	

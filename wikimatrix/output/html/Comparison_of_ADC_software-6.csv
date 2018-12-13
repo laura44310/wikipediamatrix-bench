@@ -11,3 +11,4 @@ RSX++	Yes	No	No	No	No
 TKDC++	Yes	No	No	No	No	
 StrongDC++	Yes	No	No	No	No	
 ncdc	No	Yes	Yes	Yes	?	
+ADC client	Windows	Linux	OS X	BSD	Haiku	

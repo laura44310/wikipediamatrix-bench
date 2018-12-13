@@ -1,9 +1,6 @@
 package fr.univrennes1.istic.wikipediamatrix;
 
 
-import java.io.IOException;
-
-
 
 public class Main {
 		//fait la tambouille 

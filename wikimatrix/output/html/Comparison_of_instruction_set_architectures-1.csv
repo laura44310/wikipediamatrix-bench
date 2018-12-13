@@ -36,3 +36,4 @@ System/360 System/370 z/Architecture	64 (32?64)		1964	2 (most) 3 (FMA, distinct 
 Transputer	32 (4?64)		1987	1	Stack machine	MISC	3 (as stack)	Variable (8 ~ 120 bytes)	Compare and branch	Little				
 VAX	32		1977	6	Memory Memory	CISC	16	Variable	Compare and branch	Little				
 Z80	8		1976	2	Register Memory	CISC	17	Variable (8 to 32 bits)	Condition register	Little				
+Archi- tecture	Bits	Version	Intro- duced	Max # operands	Type	Design	Registers (excluding FP/vector)	Instruction encoding	Branch evaluation	Endian- ness	Extensions	Open	Royalty free	

@@ -52,4 +52,4 @@ rsi9113	RSI9113	Redpine Signals SDIO, USB adapters		Yes		GPL	Written by Redpine 
 ti	wl1251	Texas Instruments TI wl1251 (SDIO/SPI)	?	Yes	Yes[24]	GPL	Written by Nokia	
 wl12xx	Texas Instruments TI wl1271, wl1273, wl1281 and wl1283	?	Yes (Only up to 3.2[25])	Yes[24]	GPL	Written by Nokia and Texas Instruments	
 wl18xx	Texas Instruments TI WiLink 8	?	Yes	Yes[24]	GPL	Written by Texas Instruments	
-zd1211rw	ZyDAS ZD1211/ZD1211B (USB)	?	Yes	Yes[26]	GPL	various	
+zd1211rw	zd1211rw	ZyDAS ZD1211/ZD1211B (USB)	?	Yes	Yes[26]	GPL	various	

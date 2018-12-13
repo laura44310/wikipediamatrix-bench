@@ -1,5 +1,5 @@
 Architecture	Family	Code Name	Model Group	Speed (MHz)	Socket	Process (nm)	Cores	FSB/HT(MHz)	Cache (KiB)	Memory Controller	Features	
-L1	
+L1	L2	L3	SIMD	Speed/Power	Other	
 Am386	Am386	Sx/SxL/SxLV[1]		25-40[1]	100 PQFP[1]		1									
 Am486[2]	Am486	25-120	168 pin PGA 208 SQFP			500, 350		8						
 Enhanced Am486			66-120	168 pin PGA 208 SQFP [3]	500, 350		8, 8/16						
@@ -151,4 +151,5 @@ Ryzen 5 (1400, Pro 1500, 1500X, Pro 1600, 1600, 1600X)	3200-3600 (3400-4000 boos
 Ryzen 3 (Pro 1200, 1200, Pro 1300, 1300X)	3100-3500 (3400-3700 boost)	4 (4 threads)		8 MB	
 APU	Raven Ridge	Ryzen 5 (2500U), Ryzen 7 (2900U)	2000-2200 (3600-3800 boost)	4 (8 threads)			4 MB	
 EPYC	Naples	7000 series	2550-2900	Socket SP3	8/16/24/32				32-64 MB	DDR4				
-Architecture	
+Architecture	Family	Code Name	Model Group	Speed (MHz)	Socket	Process (nm)	Cores	FSB/HT(MHz)	Cache (MB)	Memory Controller	Features	
+L1	L2	L3	SIMD	Speed/Power	Other	

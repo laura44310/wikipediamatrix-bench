@@ -24,3 +24,4 @@ PowerShell	.NET	PowerShell	2006	Yes	Windows Server 2008, 7, Vista, XP[27]	Window
 rc	Plan 9, POSIX	rc	1989	Yes	Plan 9, Version 10 Unix	Plan 9, Version 10 Unix	Lucent Public License	?	?	?	Yes	?	?	Yes	?	?	?	?	Yes	
 BeanShell	Java	?	2005	Yes	?	?	LGPL	?	?	?	Yes	?	?	Yes	?	?	?	?	No	
 fish	POSIX	fish	2005[28]	Yes	GhostBSD	?	GPL	Yes	Text-based CLI	?	Yes	?	?	Yes (arbitrary fds)	Yes (through environment variables and via web interface through fish_config)	Yes (/etc/fish/config.fish and ~/.config/fish/config.fish)	Yes (Unix feature)	Yes (~/.config/fish/fish_history*)	?	
+Shell	Usual environment	Usually invoked	Introduced	Platform-independent	Default login shell in	Default script shell in	License	Source code availability	User interface	Mouse support	Unicode support	ISO 8601 support	Console redirection	Stream redirection	Configurability	Startup/shutdown scripts	Batch scripts	Logging	available as statically linked, independent single file executable	

@@ -57,3 +57,4 @@ Void Linux	Free, nonfree and multilib	7003600000000000000?6,000	7003671900000000
 XBMC Live	Free, and nonfree	?	?	APT	.deb		No	?	?	
 Zentyal	Free, and nonfree	?	?	APT	.deb	dpkg	Yes	?	?	
 Zenwalk	Free, and nonfree	7003200000000000000?2,000	?	netpkg, installpkg, upgradepkg	tgz, txz		Yes	?	?	
+Distribution	Free software repositories	Approximate number of pre-compiled packages	Approximate number of source packages	Default package management tools	Package format	Default installer	Graphical installation process	Netinstall	Netboot	

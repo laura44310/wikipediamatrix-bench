@@ -1,5 +1,5 @@
 Library Name	Supported Chart Types	Supported Bar Chart Types	Other Features	Interactivity	Rendering Technologies	Databinding	
-License	
+License	Free	Line	Timeline	Scatter	Area	Pie	Donut	Bullet	Radar	Funnel	Gantt	Network	Grouped	Stacked	Negative	Discrete	Horizontal	3D	Legends	Mouse Over	onClick	HTML5 Canvas	SVG	VML	AxisXY	
 amCharts	Proprietary	Free with a link [1] or commercial[2]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes[3]	Yes		
 AnyChart	Proprietary	Free for education and non-profit use.[4] Paid for commercial applications.[5]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	
 ApexCharts	MIT[6]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	No	No	No	No	Yes	Yes	Yes	Yes	Yes		Yes	Yes	Yes	No	Yes	No		
@@ -27,8 +27,8 @@ MuzeJS	MIT[58]	Yes	No	Yes	Yes	Yes	Yes	No	No	No	No	No	No	Yes	Yes	Yes	Yes	Yes	Yes	
 Google Charts	Free[59]	Yes[60]	Yes	Yes	Yes	Yes	Yes	Yes[61]	No	No	Yes[62]	Yes[63]	Yes	Yes	Yes[64]	Yes[65]	Yes	Yes[66]	Yes	Yes	Yes	Yes[67]	Yes	Yes[68]	Yes[69]	Yes[70]	
 gRaphael	MIT[71]	Yes	Yes	No	Yes	No	Yes	No	No	No	No	No	No	Yes	Yes	No	No	Yes		Yes	Yes	No	No	Yes[72]	No		
 Highcharts, Highstock	Proprietary	Free for personal and non-commercial uses.[73] Paid for commercial applications.[74]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes[75]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	
-Library Name			
-License	
+Library Name	Supported Chart Types	Supported Bar Chart Types	Other Features	Interactivity	Rendering Technologies	Databinding			
+License		Line	Timeline	Scatter	Area	Pie	Donut	Bullet	Radar	Funnel	Gantt	Network	Grouped	Stacked	Negative	Discrete	Horizontal	3D	Legends	Mouse Over	onClick	HTML5 Canvas	SVG	VML	AxisXY	
 JenScript	BSD-3[76]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	No	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes		Yes	Yes	Yes	No[77]	Yes	No	Yes	
 jqPlot	MIT or GPLv2[78]	Yes	Yes	No	Yes	Yes	Yes	Yes	No	No	No	No	No	Yes	Yes	Yes	No	Yes		Yes	Yes	Yes	Yes[79]	No	No		
 jqxChart	Proprietary	Free with a link [80] or commercial[81]	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	No	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes		
@@ -55,5 +55,5 @@ xcharts	MIT[131]	Yes	Yes	No	No	No	No	No	No	No	No	No	No	Yes	No	No	No	No		No	Yes	Y
 YUI Charts	BSD-3[132]	Yes	Yes	No	No	Yes	Yes	No	No	No	No	No	No	Yes	Yes	No	No	No		Yes	Yes	No	Yes	Yes	Yes[133]		
 ZingChart	Proprietary	Free with a link [134] or commercial[135]	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes		Yes	Yes	Yes	Yes	Yes	Yes[136]	Yes		
 ZoomCharts	Proprietary	Non-commercial or commercial[137]	Yes	Yes	Yes	Yes	Yes	Yes	No	No	No	Yes	Yes	Yes	Yes	Yes	Yes		Yes	Yes	Yes	Yes[138]	Yes	No			
-Library Name	
-		
+Library Name	License	Free	Line	Timeline	Scatter	Area	Pie	Donut	Bullet	Radar	Funnel	Gantt	Network	Grouped	Stacked	Negative	Discrete	Horizontal	3D	Legends	Mouse Over	onClick	HTML5 Canvas	SVG	VML	AxisXY	
+Supported Chart Types	Supported Bar Chart Types	Other Features	Interactivity	Rendering Technologies	Databinding			

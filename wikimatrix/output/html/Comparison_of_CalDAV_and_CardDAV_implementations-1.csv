@@ -20,4 +20,4 @@ pyCardDAV[17]	Cross-platform Python	MIT	Unknown	Unknown	N/A	N/A	N/A	Unknown	Unkn
 The Bat![18]	Windows	Proprietary	Unknown	Unknown	No	No	No	Unknown	Unknown	Yes	Unknown	The Bat!	The Bat!'s address book	Unknown	Unknown	Unknown	Unknown	
 Inverse SOGo Connector-Integrator[19]	Cross-platform Thunderbird Add-on	MPL, GPL, LGPL	Unknown	Unknown	Yes	Yes	Unknown	Unknown	Unknown	Yes	Unknown	Mozilla	Mozilla Add-ons	Unknown	Unknown	Unknown	Unknown	
 Evolution	Cross-platform	GNU GPL	No	No	Yes	Yes	Yes	No	No	Yes vCard 3.0 only	Unknown	Evolution	Evolution	Yes	Yes if the URL does not require authentication	Yes	Yes	
-Cross-platform Firefox	MPL 1.1	Unknown	Unknown	Yes	Yes	Unknown	Unknown	No	N/A	Unknown	ReminderFox	Yes	Unknown	Unknown	Unknown	Unknown	
+ReminderFox[20]	Cross-platform Firefox	MPL 1.1	Unknown	Unknown	Yes	Yes	Unknown	Unknown	No	N/A	Unknown	ReminderFox	Yes	Unknown	Unknown	Unknown	Unknown	

@@ -54,3 +54,4 @@ TrustPort	TrustPort Total Protection	Yes	Yes	No	Yes	No	Yes	No	No	?	Yes	Yes	Yes	N
 VirusBlokAda	Vba32 AntiVirus	Yes	Yes	No	No	No	No	No	No	?	No	No	No	No	No	No	?		Proprietary	Non-free	2010	Belarus			
 Webroot	SecureAnywhere AntiVirus	Yes	Yes	No	Yes	Yes	Yes	No	Yes	?	No	No	Yes	No	Yes	Yes	?		Proprietary	Trialware	2011	United States			
 Webroot	SecureAnywhere Internet Security Plus and Complete	Yes	Yes	No	Yes	Yes	Yes	No	Yes	?	No	No	Yes	No	Yes	Yes	?		Proprietary	Non-free	2011	United States			
+Company	Software	On-demand scan	On-access scan	Boot-time scans	Heuristics	CloudAV	Firewall	IDS	IPS	Sandbox	Email Security	AntiSpam	Web protection	Macro protection	Live-Update	Support	Settings Import/Export	installer/ updater MIMA safe	License	Price	First release	Country of origin	Original author/s	Notes	

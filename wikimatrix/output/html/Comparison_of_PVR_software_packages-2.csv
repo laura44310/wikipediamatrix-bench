@@ -10,4 +10,4 @@ MythTV	DVB;[f 3] other services region dependent[f 12]	Yes	Yes	Limited[f 13]	Yes
 SageTV	Yes (with former purchased license)	Yes	Yes	Partial Using Plugin[f 18]	?	Yes	Using Plugin[f 19]	No	Yes	Yes	No	?	?	?	?	
 Video Disk Recorder	Yes	Yes	Yes	No	Yes	Yes	No	Using Plugin	Yes	Using Plugin	No	Yes	Using Plugin	No	Using Plugin	
 Windows Media Center	Yes	Yes	Yes[f 20]	Yes[f 21]	?	Yes	External add-on[f 22]	Yes	Yes	Yes[f 23]	Yes; also respects "do not record" flag	Supports DVB-T/T2 and DVB-S/S2; does not support DVB-C[f 24]	Yes	Yes	Yes	
-DVB Guide info varies by broadcaster and TV service provider	No	Yes	No	Yes	Yes	?	Yes	Yes	Yes	?	Yes	Yes	Yes	Yes	
+VBox@TV	DVB Guide info varies by broadcaster and TV service provider	No	Yes	No	Yes	Yes	?	Yes	Yes	Yes	?	Yes	Yes	Yes	Yes	

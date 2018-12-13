@@ -13,4 +13,4 @@ MicroStrategy Intelligence Server	Yes	No	Yes	Yes	Yes	Yes	Yes	?	?	?
 Mondrian OLAP server	Yes	Yes[22]	Yes	Yes	Yes[23]	Yes	Yes	Yes [24]	?	?	
 Oracle Database OLAP Option	No	Yes[25]	Yes[25]	Java, PL/SQL, OLAP DML	Yes	Yes[26]	No	?	?	?	
 SAP NetWeaver BW	Yes	Yes	Yes	No	Yes	No	Yes	?	?	?	
-Yes	Yes	Yes	No	No	No	Yes	Web Report Studio	?	?	
+SAS OLAP Server	Yes	Yes	Yes	No	No	No	Yes	Web Report Studio	?	?	

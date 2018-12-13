@@ -11,3 +11,4 @@ RSX++	Yes	No	No	C++, Lua	StrongDC++
 TKDC++	Yes	No	No	C++, Lua	StrongDC++, DC++	
 StrongDC++	Yes	No	No	C++	DC++	
 ncdc	No	Yes	No	C		
+ADC client	GUI	CLI	WebUI	Programming language	Based on	

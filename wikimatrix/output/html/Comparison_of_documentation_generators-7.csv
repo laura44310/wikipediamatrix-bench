@@ -16,7 +16,8 @@ pydoc	Yes	No	No	No	No	No	No	No	No	No
 RDoc	Yes	Yes[i]	No	No	No	No	Indirectly[j]	No	Yes[i]	
 ROBODoc	Yes	Indirectly	Yes	Indirectly[g]	Yes	Indirectly[g]	Yes	Yes	No	
 Sandcastle	Yes	Yes	No	No	No	No	No	No	No	
-Sphinx	Yes	Yes	Indirectly[k]	Yes	Yes	Yes	
+Sphinx					Yes	Yes	Indirectly[k]	Yes	Yes	Yes	
 Visual Expert	Yes	No	No	No	No	No	No	No	No	
 VSdocman	Yes	Yes	No	Yes	No	No	No	No	Yes	
 YARD	Yes	No	No	No	No	No	No	No	No	
+	HTML	CHM	RTF	PDF	LaTeX	PostScript	man pages	DocBook	XML	ePub	

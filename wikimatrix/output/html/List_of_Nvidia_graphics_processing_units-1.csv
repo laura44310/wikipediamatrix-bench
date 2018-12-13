@@ -1,6 +1,6 @@
 Model	Micro- architecture	Launch	Chips	Core clock (MHz)	Shaders	Memory	Processing power (GFLOPS)5	CUDA compute ability8	TDP (watts)	Notes, form_factor	
-Cuda cores (total)	
-Units	
+Cuda cores (total)	Base clock (MHz)	Max boost clock (MHz)7	Bus type	Bus width (bit)	Size (GB)	Clock (MT/s)	Bandwidth (GB/s)	Single precision (MAD+MUL)	Single precision (MAD or FMA)	Double precision (FMA)	
+Units						MHz	MHz										W		
 C870 GPU Computing Module1	Tesla	May 2, 2007	1× G80	600	128	1350	N/A	GDDR3	384	1.5	1600	76.8	518.4	345.6	No	1.0	170.9	Internal PCIe GPU (full-height, dual-slot)	
 D870 Deskside Computer1	May 2, 2007	2× G80	600	256	1350	N/A	GDDR3	2× 384	2× 1.5	1600	2× 76.8	1036.8	691.2	No	1.0	520	Deskside or 3U rack-mount external GPUs	
 S870 GPU Computing Server1	May 2, 2007	4× G80	600	512	1350	N/A	GDDR3	4× 384	4× 1.5	1600	4× 76.8	2073.6	1382.4	No	1.0		1U rack-mount external GPUs, connect via 2× PCIe (×16)	
@@ -36,4 +36,5 @@ P100 GPU Accelerator (12 GB Card)[188]	June 20, 2016	N/A	3072	12	549	No	8071?934
 V100 GPU Accelerator (Mezzanine )[189][190][191]	Volta		1× GV100	N/A	5120	Unknown	1455	HBM2	4096	16	1750	900	No	14899	7450	7.0	300	NVlink Card	
 V100 GPU Accelerator (PCIe card)[189][190][191]	June 21, 2017	N/A	Unknown	1370	No	14028	7014	250	PCIe card	
 T4 GPU Accelerator (PCIe card)[192]	Turing	September 12, 2018	Unknown	Unknown	2560	Unknown	Unknown	GDDR6	Unknown	16	Unknown	320	Unknown	8100	Unknown	7.5	70	PCIe card	
-Model	
+Model	Micro- architecture	Launch	Chips	Core clock (MHz)	Shaders	Memory	Processing power (GFLOPS)5	CUDA compute ability	TDP (watts)	Notes, form factor	
+Cuda cores (total)	Base clock (MHz)	Max boost clock (MHz)7	Bus type	Bus width (bit)	Size (GB)	Clock (MT/s)	Bandwidth (total) (GB/s)	Single precision (MAD+MUL)	Single precision (MAD or FMA)	Double precision (FMA)	

@@ -1,5 +1,5 @@
 Client	Regular	MSN (NTLM) browser login	Compuserve (RPA)	MD5 APOP [Note 1]	CRAM-HMAC [Note 2]	DIGEST-MD5	with hardware token PKCS#11	Biometric	SMTP Auth [Note 3]	X.509 Client certificate	OAUTH	
-LOGIN	
+LOGIN	PLAIN	MD5	SHA1	RIPEMD	
 Alpine	Yes	Yes	No	No	No	Yes	No	No	No	No	No	Yes	No	?	
 Becky! Internet Mail	Yes	Yes	Yes	?	Yes	Yes	?	?	?	?	?	Yes	Yes	?	
 Citadel	?	?	?	?	?	?	?	?	?	?	?	?	?	?	
@@ -44,4 +44,5 @@ Windows Live Mail	Yes	No	Yes	No	Yes	No	No	No	No	No	No	No	No	?
 Windows Mail	?	?	?	?	?	?	?	?	?	?	?	?	?	?	
 YAM	Yes	Yes	?	?	Yes	Yes	?	?	?	?	?	Yes	AmiSSL	?	
 Zimbra	Yes	Yes	?	?	Yes	Yes	?	?	?	Yes	?	Yes [Note 5]	?	?	
-Client	
+Client	Regular	MSN (NTLM) browser login	Compuserve (RPA)	MD5 APOP [Note 1]	CRAM-HMAC [Note 2]	DIGEST-MD5	with hardware token PKCS#11	Biometric	SMTP Auth [Note 3]	SSL/TLS Client Certificate	OAUTH	
+LOGIN	PLAIN	MD5	SHA1	RIPEMD	

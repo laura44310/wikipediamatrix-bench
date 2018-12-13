@@ -9,3 +9,4 @@ NetChatLink	Yes	No	No	Runs under Wine
 Announcer Bot	Yes	No	No	No	
 Certmanager	Yes	No	No	No	
 SerieBot	Yes	Yes	Yes	Any C# enabled platform	
+Other software	Windows	Linux	OS X	Other	

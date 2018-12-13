@@ -24,7 +24,7 @@ Ocrad	?	0.26[32]	2017-03-31	GPL	Yes	Yes	Yes	Yes	Yes	C++	Yes	Latin alphabet	?		Co
 SmartScore	1991	10.5.8	2015-07	Proprietary	No	Yes	Yes	No	No	?	?	?	?		For musical scores	
 Microsoft Office Document Imaging	?	Office 2007	2007	Proprietary	No	Yes	No	No	No	?	?	?	?		Uses OmniPage[citation needed]	
 OCR.net	2016	?	2016	Proprietary	Yes	No	No	No	No	Java, C++, PHP, Objective-c	No	100+	?	TXT, Searchable PDF	Online service powered by PDF OCR X for conversions.	
-PDF OCR X	2008	2.0.22	2016	Proprietary	No	Yes	Yes	No	No	Java, C++, Objective-C	No	100+	?	TXT, Searchable PDf	Drag and drop UI.	
+PDF OCR X	2008	3.0.11	2018	Proprietary	No	Yes	Yes	No	No	Java, C++, Objective-C	No	100+	?	TXT, Searchable PDf	Drag and drop UI.	
 Puma.NET	?	?	2009-10-29	BSD	No	Yes	No	No	No	C#	Yes	28	Any printed font		.NET OCR SDK based on Cognitive Technologies' CuneiForm recognition engine. Wraps Puma COM server and provides simplified API for .NET applications	
 ReadSoft	?	?	?	Proprietary	No	Yes	No	No	No	?	?	?	?		Scan, capture and classify business documents such as invoices, forms and purchase orders integrated with business processes.	
 Scantron	?	?	?	Proprietary	No	Yes	No	No	No	?	?	?	?		For working with localized interfaces, corresponding language support is required.	
@@ -34,3 +34,4 @@ MathOCR	2014	0.0.3	2015	GPL	No	Yes	Yes	Yes	Yes	Java	?	?	?	HTML, LaTeX	Features m
 MeOCR	2012	1.0.0	2012	Freeware	No	Yes	No	No	No	C/C++/C#	Yes	28	Any printed font	HTML, hOCR, native, RTF, TeX, TXT	Windows application. Converts scanned documents to editable text documents using OCR and exports them to Microsoft Word with one click. Features a full user interface and also has a .NET Interface library[35] for developers.	
 Yunmai OCR SDK	2002	1.0	2013	Proprietary	Yes	Yes	Yes	Yes	Yes	Java, C++, C, object pascal, objective-C	Yes	14	Any printed font	TXT, PDF	Has the advantage of Chinese characters recognition.[36]	
 Anyline SDK	2013[37]	3.5.1[38]	2016[38]	Free non-commercial use[39]	No	No*	No*	No*	No*	Java (Android), Objective-C & Swift (iOS), C# (Windows Phone, Xamarin), JavaScript (Cordova)[40]	Yes[39]	2 (German, English)	Any printed trainable font[41]	Plain text, verification image	*Customizable mobile OCR SDK for Android, iOS, Windows Phone, Smart glasses (Google Glass, Epson Moverio,...)	
+Name	Founded year	Latest stable version	Release year	License	Online	Windows	Mac OS X	Linux	BSD	Programming language	SDK?	Languages	Fonts	Output Formats	Notes	

@@ -16,3 +16,4 @@ rustls	No	Yes	No	No	No	No
 SChannel	No	Yes	No	No		No	
 Secure Transport	No	Yes[218][219]	No	Yes		No	
 wolfSSL	No	Yes	No	Yes	Yes	Yes[220]	
+Implementation	PKCS #11 device	Intel AES-NI	VIA PadLock	ARMv8-A	Intel SGX	Intel QAT	

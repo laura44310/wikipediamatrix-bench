@@ -52,3 +52,4 @@ Toolsley Hash & Validate	?	Yes	?	No	?	No	No	No	Yes
 Total Commander	?	Yes	Yes	Yes	?	?	?	?	?	
 WinHasher	Yes	Yes	?	No	?	No	Yes	Yes	Yes	
 wxChecksums	Yes	Yes	?	Yes	Yes	No	No	No	Yes	
+Software	Compare multiple files	Hash single file	Hash several files	Hash directories & sub-directories	exclude filter	Binary output	Bubble Babble output	Base64 output	Hexadecimal output	

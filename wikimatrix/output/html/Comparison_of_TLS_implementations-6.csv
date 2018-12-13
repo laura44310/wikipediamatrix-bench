@@ -18,3 +18,4 @@ SChannel	No	No	No	No	No	No	No	Yes	No	No
 Secure Transport	No	No	No	No	No	No	No	Unknown	Yes	Yes	
 wolfSSL	No	No	No	No	Yes	No	Yes[109]	No	No	No	
 Erlang/OTP SSL application	Disabled by default	Disabled by default	Disabled by default	Disabled by default	Disabled by default	Disabled by default	No	No	Disabled by default	Disabled by default	
+Implementation	SRP[97]	SRP-DSS[97]	SRP-RSA[97]	PSK-RSA[98]	PSK[98]	DHE-PSK (forward secrecy)[98]	ECDHE-PSK (forward secrecy)[99]	KRB5[100]	DH-ANON[36] (insecure)	ECDH-ANON[84] (insecure)	

@@ -22,3 +22,4 @@ Salt[70]	Python[71]	Apache 2.0[72]	Yes[73]	Yes[73]	Yes	Both[74][75]	Yes[76][77]	
 Spacewalk	Java (C, Perl, Python, PL/SQL)	GPLv2	Yes	Yes		No		2008-06[80]	2018-04-19 2.8[81]	
 STAF	C++	CPL[82]	No[83][84]	Partial[85]		No		1998-02-16[86]	2012-12-16 3.4.16 [87]	
 Synctool[88]	Python[89]	GPLv2[90]	Yes[91]	Yes[2]	Yes[92]	Yes[93]		2003[94]	2014-06-15 6.1[95]	
+	Language	License	Mutual auth	Encrypts	Verify mode	Agent-less	Have a GUI	First release	Latest stable release	

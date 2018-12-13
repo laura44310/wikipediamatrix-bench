@@ -24,3 +24,4 @@ vimdiff	Yes	Yes (via DirDiff plugin)			Yes	Yes
 WinDiff	Yes	Yes	Yes	Yes	No	No				
 WinMerge	Yes	Yes	No	Yes	Yes (Via a fork) [30]	Yes		No	Yes (Via a fork) [30]	
 UCC	Yes	Yes	Yes	Yes	No	Yes				
+Name	Show in-line changes	Directory comparison	Binary comparison	Moved lines	3-way comparison	Merge	Structured comparison[26]	Manual compare alignment	Image compare	

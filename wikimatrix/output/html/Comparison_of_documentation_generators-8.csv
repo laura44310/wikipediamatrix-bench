@@ -20,4 +20,4 @@ ROBODoc
 Sphinx	10 themes; Jinja2 templating; Python plugins	several in sphinx-contrib, e.g. using aafigure, actdiag, Google Chart, or gnuplot	Table of Contents, Index; cross referencing; syntax highlighting with Pygments	custom objects (such as functions and classes)	
 Visual Expert	documentation content and styles customizable	Class inheritance, call trees, dependencies (impact analysis)	internal links between classes, methods, variables, tables, columns...	all types extracted	
 VSdocman	full customization for all output formats, templates for MSDN-like output, custom XML comment tags	linked graphical class diagrams, class inheritance tree	internal links and links to .NET framework documentation	types extracted and linked	
-customizable Ruby templates	class diagrams with extra tool	internal classes/modules cross-referenced and Ruby source highlighted		
+YARD	customizable Ruby templates	class diagrams with extra tool	internal classes/modules cross-referenced and Ruby source highlighted		

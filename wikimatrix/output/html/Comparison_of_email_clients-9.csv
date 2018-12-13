@@ -1,5 +1,5 @@
 Client	Label messages	Reformat received messages	Bi-directional text support	Composing messages	Native images preview	Postpone / scheduled message sending	Native documents preview	
-with colors	
+with colors	with flag	antidelete	add note	edit headers (e.g., Subject)	forced recode [Note 1]	Spell checking	Signatures	Bottom-posts replies	jpeg	gif	bmp	png	others	txt	pdf	doc	xls	odt	ods	others	
 Alpine	Yes	Yes	?	?	?	?	?	Yes	Yes	?	?	?	?	?	?	Yes	Yes	?	?	?	?	?	?	
 Becky! Internet Mail	Yes	Yes	?	Yes	Yes	Yes	?	Yes	Yes	Yes	Yes	Yes	Yes	Yes	?	?	?	?	?	?	?	?	?	
 Citadel	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	
@@ -45,4 +45,5 @@ Windows Live Mail	No	Yes	No	No	?	?	?	Yes	Yes	?	Yes	Yes	Yes	Yes	?	?	?	?	?	?	?	?	?
 Windows Mail	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	
 YAM	No	No	No	No	No	No	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	
 Zimbra	Yes	Yes	Yes	Yes	?	?	?	Yes	Yes	?	Yes	Yes	Yes	Yes	?	?	?	?	?	?	?	?	?	
-Client	
+Client	Label messages	Reformat received messages	Bi-directional text support	Composing messages	Native images preview	Postpone/?scheduled message sending	Native documents preview	
+with colors	with flag	antidelete	add note	edit headers (e.g., Subject)	forced recode [Note 1]	Spell checking	Signatures	Bottom-posts replies	jpeg	gif	bmp	png	others	txt	pdf	doc	xls	odt	ods	others	

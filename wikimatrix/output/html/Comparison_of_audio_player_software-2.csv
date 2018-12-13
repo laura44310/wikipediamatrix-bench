@@ -26,3 +26,4 @@ Winamp	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
 XMMS	Partial[19]	Partial[19]	Yes	No	Partial[19]	Yes	Yes	No	
 XMPlay	Partial[19]	Partial[19]	Yes	No	Yes	Yes	No	No	
 Zinf	No	No	Yes	Yes	?	No	?	?	
+Audio player	Video playback	Outbound streaming	Skinnable	Media database	Gapless audio decoding	Visualizer	Remote controllable	Intelligent playlists from database (based on criteria)	

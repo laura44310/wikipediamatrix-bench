@@ -22,4 +22,4 @@ PowerShell	Yes (Concat/Substring/Insert/Remove/Replace, ToLower/ToUpper, Trim/Tr
 rc	?	?	No	Yes	No	No	
 BeanShell	?	?	Yes	?	?	?	
 VMS DCL	Yes	No	No	Yes	No	Yes (via [SUBDIR…])	
-No	Yes	No	Yes (*, ?, {…})	No	Yes (**/...)	
+fish	No	Yes	No	Yes (*, ?, {…})	No	Yes (**/...)	

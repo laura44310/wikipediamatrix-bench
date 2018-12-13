@@ -34,3 +34,4 @@ Snak	Yes	Yes	?	?	?	AppleScript, IrcII script
 Visual IRC	Yes	No	?	?	?	Versus	
 WeeChat	Yes	Yes	Yes	Yes	?	C, Perl, Python, Ruby, Lua, Tcl, Scheme (Guile)	
 XChat	Yes	Yes	Yes	Yes	No	Perl, Python, Tcl, Ruby, C++, ECMAScript, Scheme (Guile)	
+Client	Multi-server	UTF-8	Proxy server	irc:// URI scheme	Automatic updates	Scripting language	

@@ -12,4 +12,4 @@ NMath	CenterSpace Software	C#	2003	4.0 / November 2009	Non-free	Proprietary	Math
 SciPy	Enthought	Python	2001	1.0.0 / 10.2017	Free	BSD	Based on Python	
 Eigen	Benoît Jacob	C++	2008	3.3.4 / 06.2017	Free	MPL2	Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.	
 Armadillo	NICTA	C++	2009	9.200 / 10.2018	Free	Apache License 2.0	C++ template library for linear algebra; includes various decompositions and factorisations; syntax (API) is similar to MATLAB.	
-Michele Martone	C, Fortran, M4	2011	1.2 / September 2016	Free	GPL	High-performance multi-threaded primitives for large sparse matrices. Support operations for iterative solvers: multiplication, triangular solve, scaling, matrix I/O, matrix rendering. Many variants: e.g.: symmetric, hermitian, complex, quadruple precision.	
+librsb	Michele Martone	C, Fortran, M4	2011	1.2 / September 2016	Free	GPL	High-performance multi-threaded primitives for large sparse matrices. Support operations for iterative solvers: multiplication, triangular solve, scaling, matrix I/O, matrix rendering. Many variants: e.g.: symmetric, hermitian, complex, quadruple precision.	

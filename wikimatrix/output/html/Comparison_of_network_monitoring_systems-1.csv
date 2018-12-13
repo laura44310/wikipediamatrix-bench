@@ -47,4 +47,4 @@ Xymon/Hobbit	Yes	Yes	Yes	No	Via plugin	Via plugin	Via plugin	No	Yes	Yes	No	Viewi
 Vigilo NMS	Yes (NMS and NOC editions)	Yes	Yes	Yes via integration	Yes via integration	Yes	Yes	Yes via Prelude SIEM	Yes	Yes	No	Viewing, Acknowledging, Reporting	Yes (NMS and NOC editions)	Yes via GLPI	Python, Perl	PostgreSQL, RRDtool	Free (GPLv2) OSS edition, Commercial NOC/NMS editions	Yes (NMS and NOC editions)	Yes (NMS and NOC editions)	Via plugin	2017-09-14	4.1.0	
 Zabbix	Yes	Yes	Yes	Yes	Yes	Supported	Yes	Yes	Yes	Yes	No	Full Control	Yes	Yes	C, PHP	Oracle, MySQL, PostgreSQL, IBM DB2, SQLite	GNU GPL	Yes	Yes	Yes	2018-10-01	4.0	
 Zenoss Core	Yes	Yes	Yes	Yes	Yes	Supported	Yes	Yes	Yes	Yes	No	Full Control	Yes	Yes	Python, Java	ZODB, MariaDB, Apache HBase	Free Core GPL, Commercial Enterprise	Yes	Yes	Yes	2018-01-09	6.1.0	
-Name	
+IP SLA Reports	Logical Grouping	Trending	Trend Prediction	Auto Discovery	Agentless	SNMP	Syslog	Plugins	Triggers / Alerts	MIB Compiler	WebApp	Distributed Monitoring	Inventory	Platform	Data Storage Method	License	Maps	Access Control	IPv6	Latest release date	Latest release version	Name	
