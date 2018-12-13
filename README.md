@@ -40,7 +40,7 @@ Pour pourvoir lancer l'extracteur de tableaux, de nombreuses dépendances Maven 
 ``` 
 ## Architecture 
 
-Pour rendre le code plus compréhensible par d'autres, il est nécessaire de structurer le code. Pour cela j'ai crée différentes classes en partitionnant une page en tableaux, un tableau possèdant un en-tête et des lignes clasiques ... 
+Pour rendre le code plus compréhensible par d'autres, il est nécessaire de structurer le code. Pour cela j'ai crée différentes classes en partitionnant une page en tableaux, un tableau possèdant un en-tête et des lignes classiques ... 
 Voici le diagramme de classe de l'extracteur. 
 
 ![img](https://i.imgur.com/aUjCs5v.png)
