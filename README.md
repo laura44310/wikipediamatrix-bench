@@ -43,7 +43,7 @@ Pour pourvoir lancer l'extracteur de tableaux, de nombreuses dépendances Maven 
 Pour rendre le code plus compréhensible par d'autres, il est nécessaire de structurer le code. Pour cela j'ai crée différentes classes en partitionnant une page en tableaux, un tableau possèdant un en-tête et des lignes clasiques ... 
 Voici le diagramme de classe de l'extracteur. 
 
-![img](https://imgur.com/a/d5vnXcG)
+[Imgur](https://i.imgur.com/aUjCs5v.png)
 
 La partie sur les statistiques n'est pas reliée à l'extracteur car elle analyse les CSV crées et ne s'appuie pas sur le code de l'extrateur de tableaux des pages Wikipedia. 
  
