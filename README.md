@@ -47,3 +47,4 @@ Voici le diagramme de classe de l'extracteur.
 
 La partie sur les statistiques n'est pas reliée à l'extracteur car elle analyse les CSV crées et ne s'appuie pas sur le code de l'extrateur de tableaux des pages Wikipedia. 
  
+ 
